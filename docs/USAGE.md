@@ -22,7 +22,7 @@ pip install -e ".[llm]"
 python -m pytest tests/test_toy_instance.py tests/test_ortools_smoke.py tests/test_llm_loop_smoke.py -q
 ```
 
-The tests use the toy JSON instance and the mock LLM client, so they do not require API credentials.
+The tests use the toy JSON instance and the mock LLM client, so they run without configuring an external LLM backend.
 
 ## Baseline Solver
 
@@ -44,21 +44,19 @@ python -m src.cli sgc data/toy/vrptw_tiny.json \
 
 The `sgc` command is the public command name for the generated-solver workflow. The `droc` command is kept as a backward-compatible alias because older scripts and result fields used that implementation name.
 
-## Real LLM Backend
+## External LLM Backend
 
 Use an OpenAI-compatible backend through environment variables:
 
 ```bash
 export OPENAI_API_KEY="..."
 export OPENAI_MODEL="gpt-4o-mini"
-# Optional, only for compatible proxy endpoints:
-export OPENAI_BASE_URL="https://api.openai.com/v1"
 
 python -m src.cli ping --llm openai
 python -m src.cli sgc data/toy/vrptw_tiny.json --llm openai --max-iterations 4 --time-limit 60
 ```
 
-The manuscript experiments describe the evaluated backend as a GPT-5.4-class advanced LLM model. For exact reproduction, use the same model, API endpoint, solver versions, random seeds, and time budgets recorded with the experiment.
+The manuscript experiments describe the evaluated backend as a GPT-5.4-class advanced LLM model. For exact reproduction, use the same model family, solver versions, random seeds, and time budgets recorded with the experiment.
 
 ## Batch Experiments
 

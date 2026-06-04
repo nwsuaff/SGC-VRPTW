@@ -17,7 +17,7 @@ This repository contains the code, processed evidence tables, figure sources, an
 - `data/toy/`: a small JSON instance for smoke tests and quick demos.
 - `paper/manuscript/`: the current manuscript source, PDF, references, definitions, and final figure exports.
 
-Large raw benchmark datasets and private execution settings are not vendored. See `docs/DATA.md` for the expected dataset layout.
+See `docs/DATA.md` for the benchmark layout expected by the loaders and experiment scripts.
 
 ## Method Naming
 
@@ -46,7 +46,7 @@ python -m src.cli solve ortools data/toy/vrptw_tiny.json --time-limit 5
 python -m src.cli sgc data/toy/vrptw_tiny.json --llm mock --max-iterations 2 --time-limit 20 --output-dir results/demo/sgc_tiny
 ```
 
-Use a real OpenAI-compatible backend:
+Use an OpenAI-compatible LLM backend:
 
 ```bash
 export OPENAI_API_KEY="..."
@@ -78,7 +78,7 @@ For detailed commands and expected paths, see `docs/USAGE.md`.
 
 ## Repository Status
 
-This public repository is intended for review and reproducibility. It exposes the auditable research artifacts: source code, solver settings, feasibility-checking logic, processed result records, figure-source tables, plotting scripts, and manuscript materials. API credentials, local paths, private endpoints, and large raw benchmark archives are intentionally excluded.
+This public repository is intended for review and reproducibility. It provides the model workflow source code, solver settings, feasibility-checking logic, processed result records, figure-source tables, plotting scripts, and manuscript materials needed to inspect and rerun the reported analyses.
 
 ## License
 

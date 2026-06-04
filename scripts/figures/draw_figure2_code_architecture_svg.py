@@ -302,7 +302,7 @@ def draw_generation_lane(svg: SVG, x: float, y: float, w: float) -> None:
         ("entry point", "solve(instance)"),
         ("allowed API", "OR-Tools routing"),
         ("output", "routes JSON"),
-        ("forbidden", "network / credentials"),
+        ("guardrails", "deterministic solver scope"),
     ]
     for i, (a, b) in enumerate(rows):
         yy = y + 676 + i * 30

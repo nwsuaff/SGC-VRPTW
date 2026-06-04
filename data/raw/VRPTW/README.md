@@ -1,8 +1,6 @@
-# VRPTW
+# VRPTW Benchmark Layout
 
-This folder contains all Solomon and Gehring & Homberger VRPTW instances.
-The original instances are modified to fit PyVRP's VRPLIB format.
-The best-known solutions (BKS) reported in this directory follow the DIMACS rounding convention, that is, distances and durations are truncated to one decimal.
-The solution cost represents the total distance traveled.
+Place VRPTW benchmark instances here when running the full benchmark scripts.
+The loaders support Solomon-style, Gehring-Homberger/Homberger-style, and ORTEC-style layouts described in `docs/DATA.md`.
 
-> BKS in this folder are taken from [CVRPLIB](http://vrp.atd-lab.inf.puc-rio.br/index.php/en/); please do not report new BKS to us!
+Best-known solution tables should follow the DIMACS rounding convention used by the corresponding benchmark family.

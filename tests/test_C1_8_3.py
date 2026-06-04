@@ -27,7 +27,7 @@ C1_8_3_PATH = GH800_DIR / "C1_8_3.vrp"
 
 pytestmark = pytest.mark.skipif(
     not C1_8_3_PATH.exists(),
-    reason="Homberger raw benchmark file is not included in the lightweight public repository.",
+    reason="Homberger benchmark instance is not available at the configured test path.",
 )
 
 

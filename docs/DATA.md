@@ -1,6 +1,6 @@
 # Data
 
-Large raw benchmark files are not included in this repository. The public package includes a toy JSON instance, compact processed result records, figure-source tables, and summary tables used by the manuscript.
+This repository provides a toy JSON instance, compact processed result records, figure-source tables, and summary tables used by the manuscript. Benchmark loaders and experiment scripts also support standard VRPTW datasets arranged under the layout below.
 
 ## Included Data
 
@@ -15,15 +15,15 @@ evidence/tables/
 
 The included records are sufficient to inspect the reported aggregations and regenerate the manuscript-level evidence figures after the plotting environment is configured.
 
-## Raw Benchmark Layout
+## Benchmark Layout
 
-Place downloaded or locally generated raw instances under:
+Place benchmark instances under:
 
 ```text
 data/raw/VRPTW/
 ```
 
-The original project used VRPTW benchmark families from Solomon-style, Gehring-Homberger/Homberger-style, and ORTEC-style instances. Keep the raw directory structure consistent with the loader or experiment script you run. Typical layouts are:
+The experiments use VRPTW benchmark families from Solomon-style, Gehring-Homberger/Homberger-style, and ORTEC-style instances. Keep the directory structure consistent with the loader or experiment script you run. Typical layouts are:
 
 ```text
 data/raw/VRPTW/Solomon/
@@ -38,6 +38,6 @@ data/raw/VRPTW/ORTEC/dynamic/
 
 Some scripts also accept processed or project-specific paths through command-line arguments. Prefer passing explicit paths rather than editing source code.
 
-## Data Policy
+## Paper-Level Evidence
 
-Raw benchmark archives are excluded to keep the repository lightweight and to avoid redistributing datasets whose hosting terms may differ from this code repository. The included processed result records and figure-source tables are the auditable inputs for the paper figures and tables.
+The processed result records and figure-source tables are the auditable inputs for the paper figures and tables. They can be inspected directly or used with the plotting scripts listed in `docs/USAGE.md`.

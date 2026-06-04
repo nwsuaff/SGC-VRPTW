@@ -73,7 +73,7 @@ class OpenAIClient:
             timeout: Request timeout in seconds. Defaults to 60.
             max_retries: Max retry attempts on rate limit / timeout. Defaults to 3.
             api_key: OpenAI API key. Defaults to OPENAI_API_KEY env var.
-            base_url: Optional base URL for proxy endpoints.
+            base_url: Optional OpenAI-compatible service URL.
             seed: Optional seed for reproducibility (passed to API).
         """
         if not HAS_OPENAI:

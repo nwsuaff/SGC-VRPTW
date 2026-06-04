@@ -705,7 +705,7 @@ def write_needed_data_list() -> None:
             "figure_use": "Upgrade Homberger from conditional heatmap to stronger generalization evidence",
             "unit": "one row per instance-method-seed",
             "required_columns": "instance,family,scale,seed,method,feasible,vehicles,distance,runtime_sec,bks_vehicles,bks_distance,failure_category",
-            "minimum_coverage": "all 240 checked Homberger instances, with zero baseline distance/vehicle rows corrected or excluded by logged reason",
+            "minimum_coverage": "all 240 checked Homberger instances, with zero baseline distance/vehicle rows handled by logged reason",
             "reason": "Current Homberger evidence has many non-dual-feasible cells, so the claim must remain conditional.",
         },
     ]
