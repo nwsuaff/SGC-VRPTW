@@ -81,9 +81,9 @@ python -m src.cli dynamic-dispatch --help
 python -m src.cli dynamic-compare --help
 ```
 
-## Paper Evidence
+## Evidence Figures
 
-The manuscript-level analyses use compact processed records:
+The analysis uses compact processed records:
 
 ```text
 results/official/
@@ -91,10 +91,10 @@ evidence/figure_sources/
 evidence/tables/
 ```
 
-Final figure exports are stored at:
+Generated evidence figures are stored at:
 
 ```text
-paper/manuscript/fig/final/
+evidence/qa/generated_figures/
 ```
 
 Selected plotting scripts:
@@ -104,15 +104,4 @@ python scripts/figures/redraw_main_data_figures_seaborn.py
 python scripts/figures/build_discussion_figures.py
 ```
 
-If you move figure output paths, keep the manuscript paths in `paper/manuscript/main.tex` synchronized.
-
-## Manuscript
-
-The repository includes the current manuscript source and PDF:
-
-```text
-paper/manuscript/main.tex
-paper/manuscript/main.pdf
-```
-
-Compilation depends on a LaTeX environment with the MDPI template requirements available in the manuscript package.
+If you move figure output paths, keep downstream analysis notes synchronized with the new location.

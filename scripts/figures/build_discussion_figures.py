@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build data-grounded discussion figures for the manuscript.
+"""Build data-grounded discussion figures.
 
 The figures summarize protocol sensitivity, evidence boundaries, and missing
 experiment requirements. They do not introduce new experimental results.
@@ -24,7 +24,7 @@ from matplotlib.patches import Circle, FancyBboxPatch, Rectangle
 
 ROOT = Path(__file__).resolve().parents[2]
 SRC = ROOT / "evidence" / "figure_sources"
-OUT = ROOT / "paper" / "manuscript" / "fig" / "final"
+OUT = ROOT / "evidence" / "qa" / "generated_figures" / "discussion"
 
 PAL = {
     "ink": "#1E2732",

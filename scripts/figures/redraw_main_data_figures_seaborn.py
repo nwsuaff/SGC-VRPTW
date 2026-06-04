@@ -1,10 +1,8 @@
 #!/usr/bin/env python3
-"""Redraw the manuscript's main data figures with seaborn/matplotlib.
+"""Redraw the main data figures with seaborn/matplotlib.
 
 The script uses the checked CSV sources under ``evidence/figure_sources``
-and exports editable SVG, LaTeX-ready PDF, and PNG QA previews. It also syncs
-the five main figures into ``paper/manuscript/fig/final`` because the organized
-manuscript package references those filenames.
+and exports editable SVG, PDF, and PNG QA previews.
 """
 
 from __future__ import annotations
@@ -29,7 +27,7 @@ from matplotlib.patches import Patch
 ROOT = Path(__file__).resolve().parents[2]
 SRC = ROOT / "evidence" / "figure_sources"
 OUT = ROOT / "evidence" / "qa" / "generated_figures" / "seaborn_redraw"
-MAIN = ROOT / "paper" / "manuscript" / "fig" / "final"
+FINAL = ROOT / "evidence" / "qa" / "generated_figures" / "final_exports"
 QA = ROOT / "evidence" / "qa"
 AUDIT = ROOT / "evidence" / "figure_audits" / "figure_audit_seaborn_redraw.md"
 NEEDED_DATA = ROOT / "evidence" / "figure_audits" / "needed_data_for_final_figures.md"
@@ -164,7 +162,7 @@ def clean_axis(ax: plt.Axes, grid: str | None = "y") -> None:
 
 def save_and_sync(fig: plt.Figure, stem: str) -> dict[str, Path]:
     OUT.mkdir(parents=True, exist_ok=True)
-    MAIN.mkdir(parents=True, exist_ok=True)
+    FINAL.mkdir(parents=True, exist_ok=True)
     paths: dict[str, Path] = {}
     for ext in ["svg", "pdf", "png"]:
         path = OUT / f"{stem}.{ext}"
@@ -173,7 +171,7 @@ def save_and_sync(fig: plt.Figure, stem: str) -> dict[str, Path]:
         else:
             fig.savefig(path, facecolor="white")
         paths[ext] = path
-        shutil.copyfile(path, MAIN / f"{FIGURE_MAP[stem]}.{ext}")
+        shutil.copyfile(path, FINAL / f"{FIGURE_MAP[stem]}.{ext}")
     plt.close(fig)
     return paths
 
@@ -627,7 +625,7 @@ def write_audit_report() -> None:
         f"- Python backend: seaborn/matplotlib via `{Path(__import__('sys').executable)}`.",
         f"- Source CSV folder: `{SRC.relative_to(ROOT)}`.",
         f"- Editable/vector output folder: `{OUT.relative_to(ROOT)}`.",
-        f"- Manuscript figure folder synced: `{MAIN.relative_to(ROOT)}`.",
+        f"- Figure export folder synced: `{FINAL.relative_to(ROOT)}`.",
         "",
         "## Data Sources Checked",
         "",

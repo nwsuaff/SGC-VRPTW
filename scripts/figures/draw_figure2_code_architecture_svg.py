@@ -12,7 +12,7 @@ from xml.sax.saxutils import escape
 
 
 W, H = 2400, 1540
-OUT = Path(__file__).resolve().parents[1] / "manuscript" / "fig" / "ai_drafts"
+OUT = Path(__file__).resolve().parents[2] / "evidence" / "qa" / "generated_figures" / "architecture_drafts"
 
 
 COL = {
