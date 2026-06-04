@@ -1,0 +1,4 @@
+timestamp,instance,size,method,ortools_vehicles,ortools_distance,ortools_feasible,ortools_late_violations,ortools_cap_violations,ortools_runtime_sec,droc_vehicles,droc_distance,droc_feasible,droc_late_violations,droc_cap_violations,droc_runtime_sec,droc_iterations,droc_llm_latency_ms,droc_code_success,droc_error,vehicle_improvement_pct,distance_improvement_pct,droc_wins
+2026-05-02T17:08:53.732451,ORTEC-SYNTH-300-s101,300,droc_vs_ortools,29,159861.9,True,0,0,27.72,30,135034.0,True,0,0,13.05,0,0.7,True,,-3.45,15.53,False
+2026-05-02T17:08:53.732451,ORTEC-SYNTH-300-s100,300,droc_vs_ortools,29,140867.3,True,0,0,24.46,28,111099.0,True,0,0,19.57,0,115.1,True,,3.45,21.13,True
+2026-05-02T17:09:34.626382,ORTEC-SYNTH-300-s102,300,droc_vs_ortools,28,139305.6,True,0,0,13.72,28,116179.0,True,0,0,16.96,0,0.9,True,,0.00,16.60,True

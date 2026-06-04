@@ -1,0 +1,22 @@
+# Mock LLM client configuration
+
+# Maximum number of priority customers to suggest
+max_priority_customers: 5
+
+# Maximum number of locked subroutes to suggest
+max_locked_subroutes: 3
+
+# Default extra seconds to add to solver budget
+extra_seconds_default: 2
+
+# Whether to propose repair moves (relocate, swap, etc.)
+propose_repair_moves: true
+
+# Number of repair moves to propose at most
+max_repair_moves: 2
+
+# Whether to diversify the solution (for mock, simple heuristics)
+diversify: false
+
+# Temperature for randomized aspects (0 = deterministic)
+temperature: 0.0

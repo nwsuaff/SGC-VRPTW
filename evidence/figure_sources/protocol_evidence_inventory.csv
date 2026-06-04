@@ -1,0 +1,5 @@
+block,baseline_rows,droc_rows,unique_units,duplicate_units,eligible_quality_units,main_use
+ORTEC static,206,410,206,204,135,feasibility and dual-feasible quality
+ORTEC dynamic,206,400,206,194,174,served rate and feasibility recovery
+Dynamic epochs,1030,2165,1030,1135,1030,epoch-level process trajectory
+Homberger,240,240,240,0,52,conditional generalization

@@ -1,0 +1,21 @@
+field,required,description
+dataset,yes,Dataset block such as ortec_static ortec_dynamic homberger or solomon
+unit_id,yes,Matched instance or scenario identifier
+scale,yes,Problem scale or customer count
+seed,yes,Random seed
+variant,yes,Ablation variant id such as solver_only no_self_debug no_scene_card no_retrieval no_incumbent full_droc
+variant_label,yes,Display label used in figures
+time_limit_sec,yes,Total computational budget
+llm_model,yes,LLM model identifier
+solver_version,yes,OR-Tools or PyVRP version
+feasible,yes,Final deterministic feasibility
+served_rate,conditional,Final served-order rate for dynamic scenarios
+vehicles,yes,Final vehicle count
+distance,yes,Final total distance
+runtime_sec,yes,Total runtime
+debug_iterations,yes,Number of self-debug iterations used
+failure_category,yes,Final deterministic failure class
+baseline_feasible,yes,Matched baseline feasibility
+baseline_vehicles,yes,Matched baseline vehicle count
+baseline_distance,yes,Matched baseline distance
+baseline_runtime_sec,yes,Matched baseline runtime

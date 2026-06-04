@@ -1,0 +1,18 @@
+# Size shift split: train on small instances, test on larger ones
+# Solomon 100: 100 customers
+# Homberger: 200, 400, 600, 800, 1000 customers
+
+train_sizes:
+  - 100
+
+test_sizes:
+  - 200
+  - 400
+  - 600
+  - 800
+  - 1000
+
+note: >
+  This split tests the solver's ability to scale to larger problems.
+  In v1, only Solomon 100 instances are available.
+  Homberger instances can be added when the benchmark data is placed in data/raw/homberger.

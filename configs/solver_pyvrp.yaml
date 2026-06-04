@@ -1,0 +1,19 @@
+# PyVRP solver configuration
+
+time_limit: 5
+
+seed: 42
+
+max_iterations: null
+
+collect_stats: true
+
+display: false
+
+weight_vehicles: 1.0
+
+weight_distance: 1.0
+
+penalties:
+  capacity: 1.0
+  time_warp: 1.0

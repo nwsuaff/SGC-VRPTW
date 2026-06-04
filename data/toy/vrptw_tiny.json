@@ -1,0 +1,55 @@
+{
+  "name": "vrptw_tiny",
+  "source": "toy",
+  "family": null,
+  "size": 4,
+  "depot_id": 0,
+  "customer_ids": [1, 2, 3, 4],
+  "x_coords": {
+    "0": 0,
+    "1": 10,
+    "2": 20,
+    "3": 30,
+    "4": 40
+  },
+  "y_coords": {
+    "0": 0,
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0
+  },
+  "demand": {
+    "0": 0,
+    "1": 5,
+    "2": 5,
+    "3": 5,
+    "4": 5
+  },
+  "service_time": {
+    "0": 0,
+    "1": 5,
+    "2": 5,
+    "3": 5,
+    "4": 5
+  },
+  "ready_time": {
+    "0": 0,
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0
+  },
+  "due_time": {
+    "0": 9999,
+    "1": 9999,
+    "2": 9999,
+    "3": 9999,
+    "4": 9999
+  },
+  "vehicle_capacity": 20,
+  "vehicle_count": 2,
+  "distance_matrix": null,
+  "duration_matrix": null,
+  "objective": "lexicographic_vehicles_distance"
+}

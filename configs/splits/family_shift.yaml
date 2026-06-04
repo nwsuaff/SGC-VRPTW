@@ -1,0 +1,20 @@
+# Family shift split: train on one family type, test on another
+# Solomon instances are categorized by:
+# - C: clustered customers
+# - R: randomly distributed customers
+# - RC: mixed (clustered + random)
+
+seen_families:
+  - C1
+  - R1
+  - RC1
+
+unseen_families:
+  - C2
+  - R2
+  - RC2
+
+note: >
+  C1/R1/RC1 have tight time windows (25% of travel time),
+  C2/R2/RC2 have loose time windows (75% of travel time).
+  This split tests generalization from tight to loose time windows.

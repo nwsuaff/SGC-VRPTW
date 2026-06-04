@@ -1,0 +1,52 @@
+# ORTEC Dynamic Dispatch Split
+# EURO Meets NeurIPS 2022 competition style
+# Tier 2 (Static ORTEC) + Tier 3 (Dynamic ORTEC)
+
+name: ortec_dynamic
+description: >
+  ORTEC-style dynamic dispatch benchmark.
+  Static instances for Tier 2 evaluation, dynamic scenarios for Tier 3.
+  Epochs model 1-hour dispatch windows with order arrival.
+  Served-rate and total driving duration are the key metrics.
+
+# Train/test split based on customer count (size)
+train_sizes: [200, 300, 400]
+test_sizes: [500, 800, 1000]
+
+# Family shift: ORTEC instances with different scale factors
+seen_families: [ORTEC_S, ORTEC_M]
+unseen_families: [ORTEC_L, ORTEC_XL]
+
+# Instance naming convention:
+#   Static:  ORTEC-SYNTH-{n}-s{seed}.txt   (n = customer count)
+#   Dynamic: ORTEC-SYNTH-{n}-s{seed}_dyn{epochs}e.json
+
+instances:
+  # Small (200-300 customers)
+  - ORTEC-SYNTH-200-s42
+  - ORTEC-SYNTH-300-s42
+  - ORTEC-SYNTH-300-s43
+  # Medium (400-500 customers)
+  - ORTEC-SYNTH-400-s42
+  - ORTEC-SYNTH-500-s42
+  - ORTEC-SYNTH-500-s43
+  # Large (800+ customers)
+  - ORTEC-SYNTH-800-s42
+  - ORTEC-SYNTH-800-s43
+  - ORTEC-SYNTH-800-s44
+
+# Dynamic dispatch specific parameters
+dynamic:
+  num_epochs: 5
+  epoch_duration: 3600        # 1 hour per epoch (seconds)
+  margin_dispatch: 3600       # 1 hour dispatch margin
+  orders_per_epoch: ~20%      # fraction of total orders per epoch
+  time_limit_per_epoch: 60    # seconds
+  warm_start: true            # use previous epoch's solution as warm-start
+
+# Evaluation metrics for dynamic dispatch
+metrics:
+  - served_rate              # % of orders served by end of last epoch
+  - total_driving_duration  # total driving time (minimize)
+  - feasibility_rate       # % of epochs with feasible solutions
+  - avg_runtime_per_epoch   # average solver time per epoch

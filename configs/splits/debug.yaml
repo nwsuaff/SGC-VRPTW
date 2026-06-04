@@ -1,0 +1,9 @@
+# Debug split: single instance for fast iteration
+
+instances:
+  - C101
+
+note: >
+  This split is for quick testing and debugging.
+  Use this when you want to verify the pipeline works end-to-end
+  without running on the full benchmark.

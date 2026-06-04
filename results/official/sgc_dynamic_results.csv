@@ -1,0 +1,4 @@
+timestamp,scenario,base_instance,num_epochs,solver,time_limit,overall_served_rate,overall_feasible,total_late,total_cap_viol,total_distance,total_runtime_sec,error
+2026-05-02T12:13:43.905505,ORTEC-SYNTH-300-s101_dyn5e,ORTEC-SYNTH-300-s101,5,ortools,30,1.0000,True,0,0,243853.8,12.32,
+2026-05-02T12:13:45.571017,ORTEC-SYNTH-300-s100_dyn5e,ORTEC-SYNTH-300-s100,5,ortools,30,1.0000,True,0,0,220713.0,13.99,
+2026-05-02T12:13:51.016566,ORTEC-SYNTH-300-s102_dyn5e,ORTEC-SYNTH-300-s102,5,ortools,30,1.0000,True,0,0,209815.9,7.11,

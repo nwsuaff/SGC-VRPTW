@@ -1,0 +1,25 @@
+# Default configuration for VRPTW LLM Solver
+
+random_seed: 42
+
+output_dir: outputs
+
+default_time_limit: 10
+
+default_objective: lexicographic_vehicles_distance
+
+log_level: INFO
+
+data:
+  raw_solomon_dir: data/VRPTW/Solomon
+  raw_homberger_dir: data/VRPTW/GH800
+  raw_ortec_dir: data/VRPTW/ORTEC/static
+  raw_ortec_dynamic_dir: data/VRPTW/ORTEC/dynamic
+  processed_dir: data/processed
+  toy_dir: data/toy
+
+manifest_path: data/manifests/manifest.csv
+bks_path: data/manifests/bks.csv
+
+splits_dir: configs/splits
+default_split: debug

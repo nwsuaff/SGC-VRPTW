@@ -1,0 +1,821 @@
+dataset,unit,scale,iteration_group,metric,value,eligible_quality
+ORTEC static,ORTEC-SYNTH-300-s100,300,1,runtime_sec,172.64,True
+ORTEC static,ORTEC-SYNTH-300-s100,300,1,vehicle_reduction_pct,3.4482758620689653,True
+ORTEC static,ORTEC-SYNTH-300-s100,300,1,distance_reduction_pct,20.851042080028503,True
+ORTEC static,ORTEC-SYNTH-300-s101,300,1,runtime_sec,180.7,True
+ORTEC static,ORTEC-SYNTH-300-s101,300,1,vehicle_reduction_pct,-3.4482758620689653,True
+ORTEC static,ORTEC-SYNTH-300-s101,300,1,distance_reduction_pct,15.805454582986938,True
+ORTEC static,ORTEC-SYNTH-300-s102,300,1,runtime_sec,185.27,True
+ORTEC static,ORTEC-SYNTH-300-s102,300,1,vehicle_reduction_pct,-3.571428571428571,True
+ORTEC static,ORTEC-SYNTH-300-s102,300,1,distance_reduction_pct,-0.5049330393035126,True
+ORTEC static,ORTEC-SYNTH-300-s103,300,1,runtime_sec,162.41,True
+ORTEC static,ORTEC-SYNTH-300-s103,300,1,vehicle_reduction_pct,3.3333333333333335,True
+ORTEC static,ORTEC-SYNTH-300-s103,300,1,distance_reduction_pct,1.5947873515182205,True
+ORTEC static,ORTEC-SYNTH-300-s104,300,1,runtime_sec,184.46,True
+ORTEC static,ORTEC-SYNTH-300-s104,300,1,vehicle_reduction_pct,6.666666666666667,True
+ORTEC static,ORTEC-SYNTH-300-s104,300,1,distance_reduction_pct,3.31329090040001,True
+ORTEC static,ORTEC-SYNTH-300-s105,300,1,runtime_sec,182.77,True
+ORTEC static,ORTEC-SYNTH-300-s105,300,1,vehicle_reduction_pct,0.0,True
+ORTEC static,ORTEC-SYNTH-300-s105,300,1,distance_reduction_pct,2.349075999176475,True
+ORTEC static,ORTEC-SYNTH-300-s106,300,1,runtime_sec,147.17,False
+ORTEC static,ORTEC-SYNTH-300-s107,300,1,runtime_sec,176.19,True
+ORTEC static,ORTEC-SYNTH-300-s107,300,1,vehicle_reduction_pct,3.4482758620689653,True
+ORTEC static,ORTEC-SYNTH-300-s107,300,1,distance_reduction_pct,18.73192748406159,True
+ORTEC static,ORTEC-SYNTH-300-s108,300,0,runtime_sec,99.57,True
+ORTEC static,ORTEC-SYNTH-300-s108,300,0,vehicle_reduction_pct,3.3333333333333335,True
+ORTEC static,ORTEC-SYNTH-300-s108,300,0,distance_reduction_pct,1.0091505415373914,True
+ORTEC static,ORTEC-SYNTH-300-s109,300,1,runtime_sec,169.01,True
+ORTEC static,ORTEC-SYNTH-300-s109,300,1,vehicle_reduction_pct,0.0,True
+ORTEC static,ORTEC-SYNTH-300-s109,300,1,distance_reduction_pct,-0.22723089449320052,True
+ORTEC static,ORTEC-SYNTH-300-s110,300,1,runtime_sec,171.59,True
+ORTEC static,ORTEC-SYNTH-300-s110,300,1,vehicle_reduction_pct,3.3333333333333335,True
+ORTEC static,ORTEC-SYNTH-300-s110,300,1,distance_reduction_pct,2.405305101861717,True
+ORTEC static,ORTEC-SYNTH-300-s111,300,0,runtime_sec,103.58,True
+ORTEC static,ORTEC-SYNTH-300-s111,300,0,vehicle_reduction_pct,3.4482758620689653,True
+ORTEC static,ORTEC-SYNTH-300-s111,300,0,distance_reduction_pct,3.8215135683249177,True
+ORTEC static,ORTEC-SYNTH-300-s42,300,1,runtime_sec,191.01,True
+ORTEC static,ORTEC-SYNTH-300-s42,300,1,vehicle_reduction_pct,3.571428571428571,True
+ORTEC static,ORTEC-SYNTH-300-s42,300,1,distance_reduction_pct,0.4206987166042997,True
+ORTEC static,ORTEC-SYNTH-300-s43,300,1,runtime_sec,172.35,True
+ORTEC static,ORTEC-SYNTH-300-s43,300,1,vehicle_reduction_pct,0.0,True
+ORTEC static,ORTEC-SYNTH-300-s43,300,1,distance_reduction_pct,-0.1203436941106465,True
+ORTEC static,ORTEC-SYNTH-300-s44,300,1,runtime_sec,168.32,True
+ORTEC static,ORTEC-SYNTH-300-s44,300,1,vehicle_reduction_pct,3.7037037037037033,True
+ORTEC static,ORTEC-SYNTH-300-s44,300,1,distance_reduction_pct,-1.6110240193674483,True
+ORTEC static,ORTEC-SYNTH-300-s45,300,1,runtime_sec,178.57,True
+ORTEC static,ORTEC-SYNTH-300-s45,300,1,vehicle_reduction_pct,3.7037037037037033,True
+ORTEC static,ORTEC-SYNTH-300-s45,300,1,distance_reduction_pct,-1.9098586747869746,True
+ORTEC static,ORTEC-SYNTH-300-s46,300,1,runtime_sec,185.72,True
+ORTEC static,ORTEC-SYNTH-300-s46,300,1,vehicle_reduction_pct,0.0,True
+ORTEC static,ORTEC-SYNTH-300-s46,300,1,distance_reduction_pct,0.47477576084947903,True
+ORTEC static,ORTEC-SYNTH-300-s47,300,0,runtime_sec,102.3,True
+ORTEC static,ORTEC-SYNTH-300-s47,300,0,vehicle_reduction_pct,3.7037037037037033,True
+ORTEC static,ORTEC-SYNTH-300-s47,300,0,distance_reduction_pct,16.94096453157079,True
+ORTEC static,ORTEC-SYNTH-300-s48,300,1,runtime_sec,181.71,True
+ORTEC static,ORTEC-SYNTH-300-s48,300,1,vehicle_reduction_pct,0.0,True
+ORTEC static,ORTEC-SYNTH-300-s48,300,1,distance_reduction_pct,0.40732651604989756,True
+ORTEC static,ORTEC-SYNTH-300-s49,300,1,runtime_sec,195.79,True
+ORTEC static,ORTEC-SYNTH-300-s49,300,1,vehicle_reduction_pct,-3.571428571428571,True
+ORTEC static,ORTEC-SYNTH-300-s49,300,1,distance_reduction_pct,-3.9353612762453944,True
+ORTEC static,ORTEC-SYNTH-300-s50,300,2+,runtime_sec,307.79,True
+ORTEC static,ORTEC-SYNTH-300-s50,300,2+,vehicle_reduction_pct,0.0,True
+ORTEC static,ORTEC-SYNTH-300-s50,300,2+,distance_reduction_pct,0.37999130381431007,True
+ORTEC static,ORTEC-SYNTH-300-s51,300,1,runtime_sec,177.77,True
+ORTEC static,ORTEC-SYNTH-300-s51,300,1,vehicle_reduction_pct,3.7037037037037033,True
+ORTEC static,ORTEC-SYNTH-300-s51,300,1,distance_reduction_pct,-1.4222008800824397,True
+ORTEC static,ORTEC-SYNTH-300-s52,300,1,runtime_sec,141.78,False
+ORTEC static,ORTEC-SYNTH-300-s53,300,1,runtime_sec,150.36,True
+ORTEC static,ORTEC-SYNTH-300-s53,300,1,vehicle_reduction_pct,3.7037037037037033,True
+ORTEC static,ORTEC-SYNTH-300-s53,300,1,distance_reduction_pct,0.7261334073354423,True
+ORTEC static,ORTEC-SYNTH-300-s54,300,1,runtime_sec,153.51,True
+ORTEC static,ORTEC-SYNTH-300-s54,300,1,vehicle_reduction_pct,3.225806451612903,True
+ORTEC static,ORTEC-SYNTH-300-s54,300,1,distance_reduction_pct,1.619755630360574,True
+ORTEC static,ORTEC-SYNTH-300-s55,300,2+,runtime_sec,202.53,True
+ORTEC static,ORTEC-SYNTH-300-s55,300,2+,vehicle_reduction_pct,0.0,True
+ORTEC static,ORTEC-SYNTH-300-s55,300,2+,distance_reduction_pct,0.9687760459219428,True
+ORTEC static,ORTEC-SYNTH-300-s56,300,1,runtime_sec,176.92,True
+ORTEC static,ORTEC-SYNTH-300-s56,300,1,vehicle_reduction_pct,3.225806451612903,True
+ORTEC static,ORTEC-SYNTH-300-s56,300,1,distance_reduction_pct,0.3864949393338778,True
+ORTEC static,ORTEC-SYNTH-300-s57,300,1,runtime_sec,183.29,True
+ORTEC static,ORTEC-SYNTH-300-s57,300,1,vehicle_reduction_pct,0.0,True
+ORTEC static,ORTEC-SYNTH-300-s57,300,1,distance_reduction_pct,21.917529887041535,True
+ORTEC static,ORTEC-SYNTH-300-s58,300,0,runtime_sec,101.75,True
+ORTEC static,ORTEC-SYNTH-300-s58,300,0,vehicle_reduction_pct,6.451612903225806,True
+ORTEC static,ORTEC-SYNTH-300-s58,300,0,distance_reduction_pct,7.017357106951713,True
+ORTEC static,ORTEC-SYNTH-300-s59,300,2+,runtime_sec,197.24,False
+ORTEC static,ORTEC-SYNTH-300-s60,300,0,runtime_sec,110.11,True
+ORTEC static,ORTEC-SYNTH-300-s60,300,0,vehicle_reduction_pct,3.571428571428571,True
+ORTEC static,ORTEC-SYNTH-300-s60,300,0,distance_reduction_pct,1.4149687869313243,True
+ORTEC static,ORTEC-SYNTH-300-s61,300,0,runtime_sec,99.45,True
+ORTEC static,ORTEC-SYNTH-300-s61,300,0,vehicle_reduction_pct,10.344827586206897,True
+ORTEC static,ORTEC-SYNTH-300-s61,300,0,distance_reduction_pct,3.372298630682603,True
+ORTEC static,ORTEC-SYNTH-300-s62,300,0,runtime_sec,105.91,True
+ORTEC static,ORTEC-SYNTH-300-s62,300,0,vehicle_reduction_pct,3.225806451612903,True
+ORTEC static,ORTEC-SYNTH-300-s62,300,0,distance_reduction_pct,25.360121536317997,True
+ORTEC static,ORTEC-SYNTH-300-s63,300,1,runtime_sec,176.31,True
+ORTEC static,ORTEC-SYNTH-300-s63,300,1,vehicle_reduction_pct,0.0,True
+ORTEC static,ORTEC-SYNTH-300-s63,300,1,distance_reduction_pct,1.7377885769846204,True
+ORTEC static,ORTEC-SYNTH-300-s64,300,1,runtime_sec,191.7,True
+ORTEC static,ORTEC-SYNTH-300-s64,300,1,vehicle_reduction_pct,-3.571428571428571,True
+ORTEC static,ORTEC-SYNTH-300-s64,300,1,distance_reduction_pct,-0.759366785160701,True
+ORTEC static,ORTEC-SYNTH-300-s65,300,1,runtime_sec,186.47,True
+ORTEC static,ORTEC-SYNTH-300-s65,300,1,vehicle_reduction_pct,3.4482758620689653,True
+ORTEC static,ORTEC-SYNTH-300-s65,300,1,distance_reduction_pct,16.168260891373365,True
+ORTEC static,ORTEC-SYNTH-300-s66,300,1,runtime_sec,200.16,True
+ORTEC static,ORTEC-SYNTH-300-s66,300,1,vehicle_reduction_pct,0.0,True
+ORTEC static,ORTEC-SYNTH-300-s66,300,1,distance_reduction_pct,-2.4668765097723444,True
+ORTEC static,ORTEC-SYNTH-300-s67,300,1,runtime_sec,183.22,True
+ORTEC static,ORTEC-SYNTH-300-s67,300,1,vehicle_reduction_pct,0.0,True
+ORTEC static,ORTEC-SYNTH-300-s67,300,1,distance_reduction_pct,25.87294097959051,True
+ORTEC static,ORTEC-SYNTH-300-s68,300,2+,runtime_sec,300.11,False
+ORTEC static,ORTEC-SYNTH-300-s69,300,1,runtime_sec,180.85,True
+ORTEC static,ORTEC-SYNTH-300-s69,300,1,vehicle_reduction_pct,0.0,True
+ORTEC static,ORTEC-SYNTH-300-s69,300,1,distance_reduction_pct,-0.9167649995461559,True
+ORTEC static,ORTEC-SYNTH-300-s70,300,1,runtime_sec,175.75,True
+ORTEC static,ORTEC-SYNTH-300-s70,300,1,vehicle_reduction_pct,-6.451612903225806,True
+ORTEC static,ORTEC-SYNTH-300-s70,300,1,distance_reduction_pct,20.45044445490496,True
+ORTEC static,ORTEC-SYNTH-300-s71,300,2+,runtime_sec,247.41,False
+ORTEC static,ORTEC-SYNTH-300-s72,300,1,runtime_sec,171.94,True
+ORTEC static,ORTEC-SYNTH-300-s72,300,1,vehicle_reduction_pct,-3.4482758620689653,True
+ORTEC static,ORTEC-SYNTH-300-s72,300,1,distance_reduction_pct,-6.065593264992499,True
+ORTEC static,ORTEC-SYNTH-300-s73,300,1,runtime_sec,197.89,True
+ORTEC static,ORTEC-SYNTH-300-s73,300,1,vehicle_reduction_pct,10.344827586206897,True
+ORTEC static,ORTEC-SYNTH-300-s73,300,1,distance_reduction_pct,1.9367440724818403,True
+ORTEC static,ORTEC-SYNTH-300-s74,300,1,runtime_sec,183.48,True
+ORTEC static,ORTEC-SYNTH-300-s74,300,1,vehicle_reduction_pct,3.4482758620689653,True
+ORTEC static,ORTEC-SYNTH-300-s74,300,1,distance_reduction_pct,3.9455111661256237,True
+ORTEC static,ORTEC-SYNTH-300-s75,300,1,runtime_sec,177.83,True
+ORTEC static,ORTEC-SYNTH-300-s75,300,1,vehicle_reduction_pct,3.571428571428571,True
+ORTEC static,ORTEC-SYNTH-300-s75,300,1,distance_reduction_pct,-2.235647654951796,True
+ORTEC static,ORTEC-SYNTH-300-s76,300,2+,runtime_sec,212.82,True
+ORTEC static,ORTEC-SYNTH-300-s76,300,2+,vehicle_reduction_pct,-3.4482758620689653,True
+ORTEC static,ORTEC-SYNTH-300-s76,300,2+,distance_reduction_pct,-3.4555970185483065,True
+ORTEC static,ORTEC-SYNTH-300-s77,300,2+,runtime_sec,344.85,False
+ORTEC static,ORTEC-SYNTH-300-s78,300,2+,runtime_sec,224.97,True
+ORTEC static,ORTEC-SYNTH-300-s78,300,2+,vehicle_reduction_pct,-6.896551724137931,True
+ORTEC static,ORTEC-SYNTH-300-s78,300,2+,distance_reduction_pct,3.0530470250075887,True
+ORTEC static,ORTEC-SYNTH-300-s79,300,1,runtime_sec,175.46,True
+ORTEC static,ORTEC-SYNTH-300-s79,300,1,vehicle_reduction_pct,0.0,True
+ORTEC static,ORTEC-SYNTH-300-s79,300,1,distance_reduction_pct,0.9322951032479367,True
+ORTEC static,ORTEC-SYNTH-300-s80,300,1,runtime_sec,164.7,True
+ORTEC static,ORTEC-SYNTH-300-s80,300,1,vehicle_reduction_pct,-3.7037037037037033,True
+ORTEC static,ORTEC-SYNTH-300-s80,300,1,distance_reduction_pct,-3.0293666801703845,True
+ORTEC static,ORTEC-SYNTH-300-s81,300,1,runtime_sec,177.88,True
+ORTEC static,ORTEC-SYNTH-300-s81,300,1,vehicle_reduction_pct,3.4482758620689653,True
+ORTEC static,ORTEC-SYNTH-300-s81,300,1,distance_reduction_pct,2.8205496161297265,True
+ORTEC static,ORTEC-SYNTH-300-s82,300,1,runtime_sec,159.65,True
+ORTEC static,ORTEC-SYNTH-300-s82,300,1,vehicle_reduction_pct,-3.7037037037037033,True
+ORTEC static,ORTEC-SYNTH-300-s82,300,1,distance_reduction_pct,-4.597980712914846,True
+ORTEC static,ORTEC-SYNTH-300-s83,300,1,runtime_sec,186.65,True
+ORTEC static,ORTEC-SYNTH-300-s83,300,1,vehicle_reduction_pct,3.571428571428571,True
+ORTEC static,ORTEC-SYNTH-300-s83,300,1,distance_reduction_pct,5.357032352976831,True
+ORTEC static,ORTEC-SYNTH-300-s84,300,1,runtime_sec,156.19,True
+ORTEC static,ORTEC-SYNTH-300-s84,300,1,vehicle_reduction_pct,0.0,True
+ORTEC static,ORTEC-SYNTH-300-s84,300,1,distance_reduction_pct,-1.3388064620334263,True
+ORTEC static,ORTEC-SYNTH-300-s85,300,1,runtime_sec,156.31,True
+ORTEC static,ORTEC-SYNTH-300-s85,300,1,vehicle_reduction_pct,3.3333333333333335,True
+ORTEC static,ORTEC-SYNTH-300-s85,300,1,distance_reduction_pct,26.59959437998807,True
+ORTEC static,ORTEC-SYNTH-300-s86,300,1,runtime_sec,171.41,True
+ORTEC static,ORTEC-SYNTH-300-s86,300,1,vehicle_reduction_pct,6.666666666666667,True
+ORTEC static,ORTEC-SYNTH-300-s86,300,1,distance_reduction_pct,8.093094682137407,True
+ORTEC static,ORTEC-SYNTH-300-s87,300,1,runtime_sec,175.66,True
+ORTEC static,ORTEC-SYNTH-300-s87,300,1,vehicle_reduction_pct,6.896551724137931,True
+ORTEC static,ORTEC-SYNTH-300-s87,300,1,distance_reduction_pct,-2.5319687763801104,True
+ORTEC static,ORTEC-SYNTH-300-s88,300,2+,runtime_sec,321.76,False
+ORTEC static,ORTEC-SYNTH-300-s89,300,1,runtime_sec,175.81,True
+ORTEC static,ORTEC-SYNTH-300-s89,300,1,vehicle_reduction_pct,0.0,True
+ORTEC static,ORTEC-SYNTH-300-s89,300,1,distance_reduction_pct,-2.859744347264102,True
+ORTEC static,ORTEC-SYNTH-300-s90,300,0,runtime_sec,108.8,True
+ORTEC static,ORTEC-SYNTH-300-s90,300,0,vehicle_reduction_pct,0.0,True
+ORTEC static,ORTEC-SYNTH-300-s90,300,0,distance_reduction_pct,2.033061804170331,True
+ORTEC static,ORTEC-SYNTH-300-s91,300,2+,runtime_sec,314.31,False
+ORTEC static,ORTEC-SYNTH-300-s92,300,0,runtime_sec,107.5,True
+ORTEC static,ORTEC-SYNTH-300-s92,300,0,vehicle_reduction_pct,0.0,True
+ORTEC static,ORTEC-SYNTH-300-s92,300,0,distance_reduction_pct,21.800366865839703,True
+ORTEC static,ORTEC-SYNTH-300-s93,300,1,runtime_sec,180.18,True
+ORTEC static,ORTEC-SYNTH-300-s93,300,1,vehicle_reduction_pct,0.0,True
+ORTEC static,ORTEC-SYNTH-300-s93,300,1,distance_reduction_pct,0.03565737409699484,True
+ORTEC static,ORTEC-SYNTH-300-s94,300,1,runtime_sec,174.14,True
+ORTEC static,ORTEC-SYNTH-300-s94,300,1,vehicle_reduction_pct,3.7037037037037033,True
+ORTEC static,ORTEC-SYNTH-300-s94,300,1,distance_reduction_pct,2.233937985881512,True
+ORTEC static,ORTEC-SYNTH-300-s95,300,1,runtime_sec,177.82,True
+ORTEC static,ORTEC-SYNTH-300-s95,300,1,vehicle_reduction_pct,3.125,True
+ORTEC static,ORTEC-SYNTH-300-s95,300,1,distance_reduction_pct,0.11370967420499264,True
+ORTEC static,ORTEC-SYNTH-300-s96,300,1,runtime_sec,138.0,True
+ORTEC static,ORTEC-SYNTH-300-s96,300,1,vehicle_reduction_pct,-6.666666666666667,True
+ORTEC static,ORTEC-SYNTH-300-s96,300,1,distance_reduction_pct,-23.58256346809186,True
+ORTEC static,ORTEC-SYNTH-300-s97,300,0,runtime_sec,106.26,True
+ORTEC static,ORTEC-SYNTH-300-s97,300,0,vehicle_reduction_pct,3.4482758620689653,True
+ORTEC static,ORTEC-SYNTH-300-s97,300,0,distance_reduction_pct,24.463341933221454,True
+ORTEC static,ORTEC-SYNTH-300-s98,300,1,runtime_sec,159.95,True
+ORTEC static,ORTEC-SYNTH-300-s98,300,1,vehicle_reduction_pct,3.3333333333333335,True
+ORTEC static,ORTEC-SYNTH-300-s98,300,1,distance_reduction_pct,1.09317794414311,True
+ORTEC static,ORTEC-SYNTH-300-s99,300,1,runtime_sec,190.03,True
+ORTEC static,ORTEC-SYNTH-300-s99,300,1,vehicle_reduction_pct,0.0,True
+ORTEC static,ORTEC-SYNTH-300-s99,300,1,distance_reduction_pct,2.1624874518439916,True
+ORTEC static,ORTEC-SYNTH-500-s200,500,1,runtime_sec,170.58,True
+ORTEC static,ORTEC-SYNTH-500-s200,500,1,vehicle_reduction_pct,2.127659574468085,True
+ORTEC static,ORTEC-SYNTH-500-s200,500,1,distance_reduction_pct,23.87845434690664,True
+ORTEC static,ORTEC-SYNTH-500-s201,500,1,runtime_sec,205.08,True
+ORTEC static,ORTEC-SYNTH-500-s201,500,1,vehicle_reduction_pct,-2.2222222222222223,True
+ORTEC static,ORTEC-SYNTH-500-s201,500,1,distance_reduction_pct,-2.6512321397057197,True
+ORTEC static,ORTEC-SYNTH-500-s202,500,2+,runtime_sec,225.86,False
+ORTEC static,ORTEC-SYNTH-500-s203,500,1,runtime_sec,176.71,True
+ORTEC static,ORTEC-SYNTH-500-s203,500,1,vehicle_reduction_pct,6.521739130434782,True
+ORTEC static,ORTEC-SYNTH-500-s203,500,1,distance_reduction_pct,22.62673400380547,True
+ORTEC static,ORTEC-SYNTH-500-s204,500,1,runtime_sec,170.3,True
+ORTEC static,ORTEC-SYNTH-500-s204,500,1,vehicle_reduction_pct,2.2222222222222223,True
+ORTEC static,ORTEC-SYNTH-500-s204,500,1,distance_reduction_pct,0.04152231175470964,True
+ORTEC static,ORTEC-SYNTH-500-s205,500,1,runtime_sec,236.96,True
+ORTEC static,ORTEC-SYNTH-500-s205,500,1,vehicle_reduction_pct,0.0,True
+ORTEC static,ORTEC-SYNTH-500-s205,500,1,distance_reduction_pct,1.700394870140236,True
+ORTEC static,ORTEC-SYNTH-500-s206,500,2+,runtime_sec,394.5,False
+ORTEC static,ORTEC-SYNTH-500-s207,500,1,runtime_sec,180.02,True
+ORTEC static,ORTEC-SYNTH-500-s207,500,1,vehicle_reduction_pct,4.3478260869565215,True
+ORTEC static,ORTEC-SYNTH-500-s207,500,1,distance_reduction_pct,2.572001766671867,True
+ORTEC static,ORTEC-SYNTH-500-s208,500,1,runtime_sec,141.93,False
+ORTEC static,ORTEC-SYNTH-500-s209,500,1,runtime_sec,144.43,False
+ORTEC static,ORTEC-SYNTH-500-s210,500,1,runtime_sec,186.72,True
+ORTEC static,ORTEC-SYNTH-500-s210,500,1,vehicle_reduction_pct,0.0,True
+ORTEC static,ORTEC-SYNTH-500-s210,500,1,distance_reduction_pct,22.759618680558937,True
+ORTEC static,ORTEC-SYNTH-500-s211,500,1,runtime_sec,192.16,True
+ORTEC static,ORTEC-SYNTH-500-s211,500,1,vehicle_reduction_pct,-6.666666666666667,True
+ORTEC static,ORTEC-SYNTH-500-s211,500,1,distance_reduction_pct,-2.585004329242309,True
+ORTEC static,ORTEC-SYNTH-500-s212,500,1,runtime_sec,155.17,True
+ORTEC static,ORTEC-SYNTH-500-s212,500,1,vehicle_reduction_pct,4.444444444444445,True
+ORTEC static,ORTEC-SYNTH-500-s212,500,1,distance_reduction_pct,-1.3109449261271682,True
+ORTEC static,ORTEC-SYNTH-500-s213,500,1,runtime_sec,139.98,True
+ORTEC static,ORTEC-SYNTH-500-s213,500,1,vehicle_reduction_pct,-12.195121951219512,True
+ORTEC static,ORTEC-SYNTH-500-s213,500,1,distance_reduction_pct,-23.695819918077614,True
+ORTEC static,ORTEC-SYNTH-500-s214,500,1,runtime_sec,186.69,True
+ORTEC static,ORTEC-SYNTH-500-s214,500,1,vehicle_reduction_pct,-2.380952380952381,True
+ORTEC static,ORTEC-SYNTH-500-s214,500,1,distance_reduction_pct,-3.2808523198761397,True
+ORTEC static,ORTEC-SYNTH-500-s215,500,1,runtime_sec,174.43,True
+ORTEC static,ORTEC-SYNTH-500-s215,500,1,vehicle_reduction_pct,2.083333333333333,True
+ORTEC static,ORTEC-SYNTH-500-s215,500,1,distance_reduction_pct,-0.07357777979403067,True
+ORTEC static,ORTEC-SYNTH-500-s216,500,1,runtime_sec,185.35,True
+ORTEC static,ORTEC-SYNTH-500-s216,500,1,vehicle_reduction_pct,0.0,True
+ORTEC static,ORTEC-SYNTH-500-s216,500,1,distance_reduction_pct,18.217374442305857,True
+ORTEC static,ORTEC-SYNTH-500-s217,500,1,runtime_sec,214.14,True
+ORTEC static,ORTEC-SYNTH-500-s217,500,1,vehicle_reduction_pct,0.0,True
+ORTEC static,ORTEC-SYNTH-500-s217,500,1,distance_reduction_pct,1.0084939223495424,True
+ORTEC static,ORTEC-SYNTH-500-s218,500,2+,runtime_sec,177.36,False
+ORTEC static,ORTEC-SYNTH-500-s219,500,1,runtime_sec,180.01,True
+ORTEC static,ORTEC-SYNTH-500-s219,500,1,vehicle_reduction_pct,0.0,True
+ORTEC static,ORTEC-SYNTH-500-s219,500,1,distance_reduction_pct,2.3991782865246845,True
+ORTEC static,ORTEC-SYNTH-500-s220,500,1,runtime_sec,153.81,True
+ORTEC static,ORTEC-SYNTH-500-s220,500,1,vehicle_reduction_pct,2.1739130434782608,True
+ORTEC static,ORTEC-SYNTH-500-s220,500,1,distance_reduction_pct,0.594123969602001,True
+ORTEC static,ORTEC-SYNTH-500-s221,500,1,runtime_sec,182.45,True
+ORTEC static,ORTEC-SYNTH-500-s221,500,1,vehicle_reduction_pct,2.3255813953488373,True
+ORTEC static,ORTEC-SYNTH-500-s221,500,1,distance_reduction_pct,3.165847120527153,True
+ORTEC static,ORTEC-SYNTH-500-s222,500,1,runtime_sec,165.91,False
+ORTEC static,ORTEC-SYNTH-500-s223,500,1,runtime_sec,189.07,True
+ORTEC static,ORTEC-SYNTH-500-s223,500,1,vehicle_reduction_pct,4.761904761904762,True
+ORTEC static,ORTEC-SYNTH-500-s223,500,1,distance_reduction_pct,-3.228588982984966,True
+ORTEC static,ORTEC-SYNTH-500-s224,500,1,runtime_sec,182.99,True
+ORTEC static,ORTEC-SYNTH-500-s224,500,1,vehicle_reduction_pct,4.545454545454546,True
+ORTEC static,ORTEC-SYNTH-500-s224,500,1,distance_reduction_pct,1.7620264066420692,True
+ORTEC static,ORTEC-SYNTH-500-s225,500,1,runtime_sec,191.18,True
+ORTEC static,ORTEC-SYNTH-500-s225,500,1,vehicle_reduction_pct,4.25531914893617,True
+ORTEC static,ORTEC-SYNTH-500-s225,500,1,distance_reduction_pct,20.745478948024182,True
+ORTEC static,ORTEC-SYNTH-500-s226,500,1,runtime_sec,183.2,False
+ORTEC static,ORTEC-SYNTH-500-s227,500,1,runtime_sec,194.18,True
+ORTEC static,ORTEC-SYNTH-500-s227,500,1,vehicle_reduction_pct,0.0,True
+ORTEC static,ORTEC-SYNTH-500-s227,500,1,distance_reduction_pct,22.794348243267706,True
+ORTEC static,ORTEC-SYNTH-500-s228,500,1,runtime_sec,185.18,True
+ORTEC static,ORTEC-SYNTH-500-s228,500,1,vehicle_reduction_pct,0.0,True
+ORTEC static,ORTEC-SYNTH-500-s228,500,1,distance_reduction_pct,20.27902525971239,True
+ORTEC static,ORTEC-SYNTH-500-s229,500,1,runtime_sec,190.22,True
+ORTEC static,ORTEC-SYNTH-500-s229,500,1,vehicle_reduction_pct,2.4390243902439024,True
+ORTEC static,ORTEC-SYNTH-500-s229,500,1,distance_reduction_pct,-0.1487136271253656,True
+ORTEC static,ORTEC-SYNTH-500-s230,500,1,runtime_sec,192.25,True
+ORTEC static,ORTEC-SYNTH-500-s230,500,1,vehicle_reduction_pct,4.651162790697675,True
+ORTEC static,ORTEC-SYNTH-500-s230,500,1,distance_reduction_pct,20.917327807198514,True
+ORTEC static,ORTEC-SYNTH-500-s231,500,1,runtime_sec,175.94,True
+ORTEC static,ORTEC-SYNTH-500-s231,500,1,vehicle_reduction_pct,2.3255813953488373,True
+ORTEC static,ORTEC-SYNTH-500-s231,500,1,distance_reduction_pct,-0.3248851961433806,True
+ORTEC static,ORTEC-SYNTH-500-s232,500,1,runtime_sec,169.8,True
+ORTEC static,ORTEC-SYNTH-500-s232,500,1,vehicle_reduction_pct,4.545454545454546,True
+ORTEC static,ORTEC-SYNTH-500-s232,500,1,distance_reduction_pct,0.9707565078286148,True
+ORTEC static,ORTEC-SYNTH-500-s233,500,1,runtime_sec,140.8,False
+ORTEC static,ORTEC-SYNTH-500-s234,500,1,runtime_sec,130.9,False
+ORTEC static,ORTEC-SYNTH-500-s235,500,1,runtime_sec,140.74,False
+ORTEC static,ORTEC-SYNTH-500-s236,500,1,runtime_sec,176.35,False
+ORTEC static,ORTEC-SYNTH-500-s237,500,1,runtime_sec,168.38,True
+ORTEC static,ORTEC-SYNTH-500-s237,500,1,vehicle_reduction_pct,4.3478260869565215,True
+ORTEC static,ORTEC-SYNTH-500-s237,500,1,distance_reduction_pct,27.8799560836601,True
+ORTEC static,ORTEC-SYNTH-500-s238,500,2+,runtime_sec,160.11,False
+ORTEC static,ORTEC-SYNTH-500-s239,500,1,runtime_sec,184.09,True
+ORTEC static,ORTEC-SYNTH-500-s239,500,1,vehicle_reduction_pct,2.2222222222222223,True
+ORTEC static,ORTEC-SYNTH-500-s239,500,1,distance_reduction_pct,-0.51928857266355,True
+ORTEC static,ORTEC-SYNTH-500-s240,500,1,runtime_sec,144.64,False
+ORTEC static,ORTEC-SYNTH-500-s241,500,1,runtime_sec,162.48,True
+ORTEC static,ORTEC-SYNTH-500-s241,500,1,vehicle_reduction_pct,0.0,True
+ORTEC static,ORTEC-SYNTH-500-s241,500,1,distance_reduction_pct,2.300448743286289,True
+ORTEC static,ORTEC-SYNTH-500-s242,500,1,runtime_sec,141.17,False
+ORTEC static,ORTEC-SYNTH-500-s243,500,1,runtime_sec,161.82,True
+ORTEC static,ORTEC-SYNTH-500-s243,500,1,vehicle_reduction_pct,0.0,True
+ORTEC static,ORTEC-SYNTH-500-s243,500,1,distance_reduction_pct,0.21512998586620125,True
+ORTEC static,ORTEC-SYNTH-500-s244,500,1,runtime_sec,186.76,True
+ORTEC static,ORTEC-SYNTH-500-s244,500,1,vehicle_reduction_pct,2.272727272727273,True
+ORTEC static,ORTEC-SYNTH-500-s244,500,1,distance_reduction_pct,-0.3488416755966575,True
+ORTEC static,ORTEC-SYNTH-500-s245,500,1,runtime_sec,190.88,True
+ORTEC static,ORTEC-SYNTH-500-s245,500,1,vehicle_reduction_pct,0.0,True
+ORTEC static,ORTEC-SYNTH-500-s245,500,1,distance_reduction_pct,20.213949255331663,True
+ORTEC static,ORTEC-SYNTH-500-s246,500,1,runtime_sec,176.41,True
+ORTEC static,ORTEC-SYNTH-500-s246,500,1,vehicle_reduction_pct,-2.380952380952381,True
+ORTEC static,ORTEC-SYNTH-500-s246,500,1,distance_reduction_pct,-2.0552048402687446,True
+ORTEC static,ORTEC-SYNTH-500-s247,500,1,runtime_sec,186.44,True
+ORTEC static,ORTEC-SYNTH-500-s247,500,1,vehicle_reduction_pct,0.0,True
+ORTEC static,ORTEC-SYNTH-500-s247,500,1,distance_reduction_pct,-1.6953536136439538,True
+ORTEC static,ORTEC-SYNTH-500-s248,500,1,runtime_sec,188.07,True
+ORTEC static,ORTEC-SYNTH-500-s248,500,1,vehicle_reduction_pct,4.3478260869565215,True
+ORTEC static,ORTEC-SYNTH-500-s248,500,1,distance_reduction_pct,26.261624319139848,True
+ORTEC static,ORTEC-SYNTH-500-s249,500,1,runtime_sec,185.42,True
+ORTEC static,ORTEC-SYNTH-500-s249,500,1,vehicle_reduction_pct,2.272727272727273,True
+ORTEC static,ORTEC-SYNTH-500-s249,500,1,distance_reduction_pct,2.3097000382363997,True
+ORTEC static,ORTEC-SYNTH-500-s250,500,2+,runtime_sec,344.07,False
+ORTEC static,ORTEC-SYNTH-500-s251,500,1,runtime_sec,183.59,True
+ORTEC static,ORTEC-SYNTH-500-s251,500,1,vehicle_reduction_pct,2.3255813953488373,True
+ORTEC static,ORTEC-SYNTH-500-s251,500,1,distance_reduction_pct,18.504475448515766,True
+ORTEC static,ORTEC-SYNTH-500-s252,500,2+,runtime_sec,400.55,False
+ORTEC static,ORTEC-SYNTH-500-s253,500,1,runtime_sec,160.14,False
+ORTEC static,ORTEC-SYNTH-500-s254,500,1,runtime_sec,156.07,True
+ORTEC static,ORTEC-SYNTH-500-s254,500,1,vehicle_reduction_pct,2.2222222222222223,True
+ORTEC static,ORTEC-SYNTH-500-s254,500,1,distance_reduction_pct,-3.7228549114688363,True
+ORTEC static,ORTEC-SYNTH-500-s255,500,2+,runtime_sec,265.66,False
+ORTEC static,ORTEC-SYNTH-500-s256,500,1,runtime_sec,189.76,True
+ORTEC static,ORTEC-SYNTH-500-s256,500,1,vehicle_reduction_pct,4.444444444444445,True
+ORTEC static,ORTEC-SYNTH-500-s256,500,1,distance_reduction_pct,1.0187090482690815,True
+ORTEC static,ORTEC-SYNTH-500-s257,500,1,runtime_sec,152.24,False
+ORTEC static,ORTEC-SYNTH-500-s258,500,1,runtime_sec,177.37,True
+ORTEC static,ORTEC-SYNTH-500-s258,500,1,vehicle_reduction_pct,4.166666666666666,True
+ORTEC static,ORTEC-SYNTH-500-s258,500,1,distance_reduction_pct,4.753578885287933,True
+ORTEC static,ORTEC-SYNTH-500-s259,500,1,runtime_sec,203.97,True
+ORTEC static,ORTEC-SYNTH-500-s259,500,1,vehicle_reduction_pct,0.0,True
+ORTEC static,ORTEC-SYNTH-500-s259,500,1,distance_reduction_pct,-6.410488369393782,True
+ORTEC static,ORTEC-SYNTH-500-s260,500,1,runtime_sec,188.74,True
+ORTEC static,ORTEC-SYNTH-500-s260,500,1,vehicle_reduction_pct,0.0,True
+ORTEC static,ORTEC-SYNTH-500-s260,500,1,distance_reduction_pct,1.570179676471228,True
+ORTEC static,ORTEC-SYNTH-500-s261,500,1,runtime_sec,185.38,True
+ORTEC static,ORTEC-SYNTH-500-s261,500,1,vehicle_reduction_pct,2.0408163265306123,True
+ORTEC static,ORTEC-SYNTH-500-s261,500,1,distance_reduction_pct,1.1230345758592917,True
+ORTEC static,ORTEC-SYNTH-500-s262,500,2+,runtime_sec,223.19,True
+ORTEC static,ORTEC-SYNTH-500-s262,500,2+,vehicle_reduction_pct,2.4390243902439024,True
+ORTEC static,ORTEC-SYNTH-500-s262,500,2+,distance_reduction_pct,20.87409772392985,True
+ORTEC static,ORTEC-SYNTH-500-s263,500,1,runtime_sec,182.47,True
+ORTEC static,ORTEC-SYNTH-500-s263,500,1,vehicle_reduction_pct,6.666666666666667,True
+ORTEC static,ORTEC-SYNTH-500-s263,500,1,distance_reduction_pct,3.811923640381882,True
+ORTEC static,ORTEC-SYNTH-500-s264,500,1,runtime_sec,184.87,True
+ORTEC static,ORTEC-SYNTH-500-s264,500,1,vehicle_reduction_pct,15.909090909090908,True
+ORTEC static,ORTEC-SYNTH-500-s264,500,1,distance_reduction_pct,14.795620373033213,True
+ORTEC static,ORTEC-SYNTH-500-s265,500,1,runtime_sec,136.82,False
+ORTEC static,ORTEC-SYNTH-500-s266,500,1,runtime_sec,134.65,False
+ORTEC static,ORTEC-SYNTH-500-s267,500,1,runtime_sec,153.94,True
+ORTEC static,ORTEC-SYNTH-500-s267,500,1,vehicle_reduction_pct,6.382978723404255,True
+ORTEC static,ORTEC-SYNTH-500-s267,500,1,distance_reduction_pct,24.147942438778085,True
+ORTEC static,ORTEC-SYNTH-500-s268,500,1,runtime_sec,197.36,True
+ORTEC static,ORTEC-SYNTH-500-s268,500,1,vehicle_reduction_pct,-2.380952380952381,True
+ORTEC static,ORTEC-SYNTH-500-s268,500,1,distance_reduction_pct,18.54745505731125,True
+ORTEC static,ORTEC-SYNTH-500-s269,500,1,runtime_sec,136.94,False
+ORTEC static,ORTEC-SYNTH-500-s45,500,1,runtime_sec,138.93,True
+ORTEC static,ORTEC-SYNTH-500-s45,500,1,vehicle_reduction_pct,-4.761904761904762,True
+ORTEC static,ORTEC-SYNTH-500-s45,500,1,distance_reduction_pct,-29.574013769404463,True
+ORTEC static,ORTEC-SYNTH-500-s46,500,1,runtime_sec,172.27,True
+ORTEC static,ORTEC-SYNTH-500-s46,500,1,vehicle_reduction_pct,-2.2222222222222223,True
+ORTEC static,ORTEC-SYNTH-500-s46,500,1,distance_reduction_pct,-2.0990114350676663,True
+ORTEC static,ORTEC-SYNTH-500-s47,500,1,runtime_sec,155.04,True
+ORTEC static,ORTEC-SYNTH-500-s47,500,1,vehicle_reduction_pct,4.761904761904762,True
+ORTEC static,ORTEC-SYNTH-500-s47,500,1,distance_reduction_pct,-1.1514824267454145,True
+ORTEC static,ORTEC-SYNTH-800-s400,800,1,runtime_sec,186.21,True
+ORTEC static,ORTEC-SYNTH-800-s400,800,1,vehicle_reduction_pct,1.4285714285714286,True
+ORTEC static,ORTEC-SYNTH-800-s400,800,1,distance_reduction_pct,-0.43137002525968576,True
+ORTEC static,ORTEC-SYNTH-800-s401,800,2+,runtime_sec,186.14,False
+ORTEC static,ORTEC-SYNTH-800-s402,800,2+,runtime_sec,346.55,False
+ORTEC static,ORTEC-SYNTH-800-s403,800,1,runtime_sec,201.09,True
+ORTEC static,ORTEC-SYNTH-800-s403,800,1,vehicle_reduction_pct,1.4492753623188406,True
+ORTEC static,ORTEC-SYNTH-800-s403,800,1,distance_reduction_pct,25.176886989517683,True
+ORTEC static,ORTEC-SYNTH-800-s404,800,2+,runtime_sec,369.76,False
+ORTEC static,ORTEC-SYNTH-800-s405,800,1,runtime_sec,151.19,False
+ORTEC static,ORTEC-SYNTH-800-s406,800,1,runtime_sec,177.72,True
+ORTEC static,ORTEC-SYNTH-800-s406,800,1,vehicle_reduction_pct,6.0606060606060606,True
+ORTEC static,ORTEC-SYNTH-800-s406,800,1,distance_reduction_pct,2.15322796050339,True
+ORTEC static,ORTEC-SYNTH-800-s407,800,1,runtime_sec,151.05,False
+ORTEC static,ORTEC-SYNTH-800-s408,800,1,runtime_sec,181.77,True
+ORTEC static,ORTEC-SYNTH-800-s408,800,1,vehicle_reduction_pct,2.941176470588235,True
+ORTEC static,ORTEC-SYNTH-800-s408,800,1,distance_reduction_pct,-1.1982671380804262,True
+ORTEC static,ORTEC-SYNTH-800-s409,800,1,runtime_sec,156.4,False
+ORTEC static,ORTEC-SYNTH-800-s410,800,2+,runtime_sec,390.82,False
+ORTEC static,ORTEC-SYNTH-800-s411,800,1,runtime_sec,171.53,False
+ORTEC static,ORTEC-SYNTH-800-s412,800,1,runtime_sec,148.5,False
+ORTEC static,ORTEC-SYNTH-800-s413,800,1,runtime_sec,174.82,False
+ORTEC static,ORTEC-SYNTH-800-s414,800,1,runtime_sec,193.49,True
+ORTEC static,ORTEC-SYNTH-800-s414,800,1,vehicle_reduction_pct,-1.3513513513513513,True
+ORTEC static,ORTEC-SYNTH-800-s414,800,1,distance_reduction_pct,19.911369291483954,True
+ORTEC static,ORTEC-SYNTH-800-s415,800,1,runtime_sec,176.92,False
+ORTEC static,ORTEC-SYNTH-800-s416,800,1,runtime_sec,184.61,True
+ORTEC static,ORTEC-SYNTH-800-s416,800,1,vehicle_reduction_pct,14.492753623188406,True
+ORTEC static,ORTEC-SYNTH-800-s416,800,1,distance_reduction_pct,16.271100248211127,True
+ORTEC static,ORTEC-SYNTH-800-s417,800,1,runtime_sec,118.68,False
+ORTEC static,ORTEC-SYNTH-800-s418,800,2+,runtime_sec,360.22,False
+ORTEC static,ORTEC-SYNTH-800-s419,800,1,runtime_sec,210.95,True
+ORTEC static,ORTEC-SYNTH-800-s419,800,1,vehicle_reduction_pct,2.73972602739726,True
+ORTEC static,ORTEC-SYNTH-800-s419,800,1,distance_reduction_pct,-1.216841456660271,True
+ORTEC static,ORTEC-SYNTH-800-s420,800,1,runtime_sec,171.92,False
+ORTEC static,ORTEC-SYNTH-800-s421,800,1,runtime_sec,184.76,True
+ORTEC static,ORTEC-SYNTH-800-s421,800,1,vehicle_reduction_pct,2.941176470588235,True
+ORTEC static,ORTEC-SYNTH-800-s421,800,1,distance_reduction_pct,-5.641618430917625,True
+ORTEC static,ORTEC-SYNTH-800-s422,800,1,runtime_sec,170.49,False
+ORTEC static,ORTEC-SYNTH-800-s423,800,1,runtime_sec,176.41,True
+ORTEC static,ORTEC-SYNTH-800-s423,800,1,vehicle_reduction_pct,4.411764705882353,True
+ORTEC static,ORTEC-SYNTH-800-s423,800,1,distance_reduction_pct,31.178727706099153,True
+ORTEC static,ORTEC-SYNTH-800-s424,800,2+,runtime_sec,224.22,True
+ORTEC static,ORTEC-SYNTH-800-s424,800,2+,vehicle_reduction_pct,2.8169014084507045,True
+ORTEC static,ORTEC-SYNTH-800-s424,800,2+,distance_reduction_pct,4.781708805893178,True
+ORTEC static,ORTEC-SYNTH-800-s425,800,1,runtime_sec,167.38,True
+ORTEC static,ORTEC-SYNTH-800-s425,800,1,vehicle_reduction_pct,1.4285714285714286,True
+ORTEC static,ORTEC-SYNTH-800-s425,800,1,distance_reduction_pct,8.654266925814253,True
+ORTEC static,ORTEC-SYNTH-800-s426,800,1,runtime_sec,143.57,False
+ORTEC static,ORTEC-SYNTH-800-s427,800,2+,runtime_sec,195.34,False
+ORTEC static,ORTEC-SYNTH-800-s428,800,2+,runtime_sec,317.26,False
+ORTEC static,ORTEC-SYNTH-800-s429,800,2+,runtime_sec,387.95,False
+ORTEC static,ORTEC-SYNTH-800-s430,800,1,runtime_sec,202.65,True
+ORTEC static,ORTEC-SYNTH-800-s430,800,1,vehicle_reduction_pct,2.857142857142857,True
+ORTEC static,ORTEC-SYNTH-800-s430,800,1,distance_reduction_pct,4.059788207295465,True
+ORTEC static,ORTEC-SYNTH-800-s431,800,2+,runtime_sec,384.12,False
+ORTEC static,ORTEC-SYNTH-800-s432,800,1,runtime_sec,182.08,False
+ORTEC static,ORTEC-SYNTH-800-s433,800,2+,runtime_sec,434.74,False
+ORTEC static,ORTEC-SYNTH-800-s434,800,1,runtime_sec,144.05,False
+ORTEC static,ORTEC-SYNTH-800-s435,800,2+,runtime_sec,413.56,False
+ORTEC static,ORTEC-SYNTH-800-s436,800,2+,runtime_sec,356.77,False
+ORTEC static,ORTEC-SYNTH-800-s437,800,1,runtime_sec,181.04,False
+ORTEC static,ORTEC-SYNTH-800-s438,800,1,runtime_sec,185.61,False
+ORTEC static,ORTEC-SYNTH-800-s439,800,1,runtime_sec,181.2,True
+ORTEC static,ORTEC-SYNTH-800-s439,800,1,vehicle_reduction_pct,2.941176470588235,True
+ORTEC static,ORTEC-SYNTH-800-s439,800,1,distance_reduction_pct,7.0373728818043935,True
+ORTEC static,ORTEC-SYNTH-800-s440,800,1,runtime_sec,246.93,False
+ORTEC static,ORTEC-SYNTH-800-s441,800,1,runtime_sec,183.14,True
+ORTEC static,ORTEC-SYNTH-800-s441,800,1,vehicle_reduction_pct,9.333333333333334,True
+ORTEC static,ORTEC-SYNTH-800-s441,800,1,distance_reduction_pct,6.9860245081661345,True
+ORTEC static,ORTEC-SYNTH-800-s442,800,2+,runtime_sec,194.58,True
+ORTEC static,ORTEC-SYNTH-800-s442,800,2+,vehicle_reduction_pct,2.941176470588235,True
+ORTEC static,ORTEC-SYNTH-800-s442,800,2+,distance_reduction_pct,5.349766934835634,True
+ORTEC static,ORTEC-SYNTH-800-s443,800,2+,runtime_sec,377.79,False
+ORTEC static,ORTEC-SYNTH-800-s444,800,1,runtime_sec,168.0,False
+ORTEC static,ORTEC-SYNTH-800-s445,800,2+,runtime_sec,207.22,True
+ORTEC static,ORTEC-SYNTH-800-s445,800,2+,vehicle_reduction_pct,-1.4925373134328357,True
+ORTEC static,ORTEC-SYNTH-800-s445,800,2+,distance_reduction_pct,3.5340541837783928,True
+ORTEC static,ORTEC-SYNTH-800-s446,800,0,runtime_sec,103.02,True
+ORTEC static,ORTEC-SYNTH-800-s446,800,0,vehicle_reduction_pct,7.042253521126761,True
+ORTEC static,ORTEC-SYNTH-800-s446,800,0,distance_reduction_pct,29.961437482396285,True
+ORTEC static,ORTEC-SYNTH-800-s447,800,1,runtime_sec,196.67,False
+ORTEC static,ORTEC-SYNTH-800-s448,800,1,runtime_sec,159.84,True
+ORTEC static,ORTEC-SYNTH-800-s448,800,1,vehicle_reduction_pct,0.0,True
+ORTEC static,ORTEC-SYNTH-800-s448,800,1,distance_reduction_pct,22.99225976705611,True
+ORTEC static,ORTEC-SYNTH-800-s449,800,2+,runtime_sec,275.26,True
+ORTEC static,ORTEC-SYNTH-800-s449,800,2+,vehicle_reduction_pct,0.0,True
+ORTEC static,ORTEC-SYNTH-800-s449,800,2+,distance_reduction_pct,17.25021821525625,True
+ORTEC static,ORTEC-SYNTH-800-s450,800,1,runtime_sec,173.46,False
+ORTEC static,ORTEC-SYNTH-800-s451,800,2+,runtime_sec,361.06,False
+ORTEC static,ORTEC-SYNTH-800-s452,800,1,runtime_sec,142.26,False
+ORTEC static,ORTEC-SYNTH-800-s453,800,1,runtime_sec,151.29,False
+ORTEC static,ORTEC-SYNTH-800-s454,800,1,runtime_sec,154.33,False
+ORTEC static,ORTEC-SYNTH-800-s455,800,1,runtime_sec,161.24,False
+ORTEC static,ORTEC-SYNTH-800-s456,800,1,runtime_sec,167.08,True
+ORTEC static,ORTEC-SYNTH-800-s456,800,1,vehicle_reduction_pct,4.3478260869565215,True
+ORTEC static,ORTEC-SYNTH-800-s456,800,1,distance_reduction_pct,6.1583905865212545,True
+ORTEC static,ORTEC-SYNTH-800-s457,800,2+,runtime_sec,181.45,True
+ORTEC static,ORTEC-SYNTH-800-s457,800,2+,vehicle_reduction_pct,2.8169014084507045,True
+ORTEC static,ORTEC-SYNTH-800-s457,800,2+,distance_reduction_pct,25.584886282794518,True
+ORTEC static,ORTEC-SYNTH-800-s458,800,2+,runtime_sec,410.84,False
+ORTEC static,ORTEC-SYNTH-800-s459,800,1,runtime_sec,165.77,True
+ORTEC static,ORTEC-SYNTH-800-s459,800,1,vehicle_reduction_pct,2.7027027027027026,True
+ORTEC static,ORTEC-SYNTH-800-s459,800,1,distance_reduction_pct,-2.070000998550805,True
+ORTEC static,ORTEC-SYNTH-800-s48,800,1,runtime_sec,185.4,False
+ORTEC static,ORTEC-SYNTH-800-s49,800,2+,runtime_sec,363.43,False
+ORTEC static,ORTEC-SYNTH-800-s50,800,1,runtime_sec,181.3,False
+Homberger,C1_2_1,200,0,runtime_sec,91.3162971999991,False
+Homberger,C1_2_10,200,0,runtime_sec,91.79325289999542,True
+Homberger,C1_2_10,200,0,vehicle_reduction_pct,4.761904761904762,True
+Homberger,C1_2_10,200,0,distance_reduction_pct,7.116253007679887,True
+Homberger,C1_2_2,200,0,runtime_sec,107.89119650000066,False
+Homberger,C1_2_3,200,0,runtime_sec,97.07430039999599,False
+Homberger,C1_2_4,200,0,runtime_sec,107.61305719999655,False
+Homberger,C1_2_5,200,0,runtime_sec,104.09406639999361,False
+Homberger,C1_2_6,200,0,runtime_sec,109.94894390000263,False
+Homberger,C1_2_7,200,0,runtime_sec,87.88390549999895,False
+Homberger,C1_2_8,200,0,runtime_sec,143.3948042999982,True
+Homberger,C1_2_8,200,0,vehicle_reduction_pct,13.043478260869565,True
+Homberger,C1_2_8,200,0,distance_reduction_pct,20.24302349822795,True
+Homberger,C1_2_9,200,0,runtime_sec,117.1583524000016,False
+Homberger,C2_2_1,200,0,runtime_sec,130.28070730000036,False
+Homberger,C2_2_10,200,0,runtime_sec,92.71556729999429,False
+Homberger,C2_2_2,200,0,runtime_sec,83.74977280000167,True
+Homberger,C2_2_2,200,0,vehicle_reduction_pct,33.33333333333333,True
+Homberger,C2_2_2,200,0,distance_reduction_pct,9.729624963659276,True
+Homberger,C2_2_3,200,1,runtime_sec,230.0029316,False
+Homberger,C2_2_4,200,0,runtime_sec,122.40316489999532,True
+Homberger,C2_2_4,200,0,vehicle_reduction_pct,33.33333333333333,True
+Homberger,C2_2_4,200,0,distance_reduction_pct,3.0267567423799187,True
+Homberger,C2_2_5,200,0,runtime_sec,109.44280479999725,True
+Homberger,C2_2_5,200,0,vehicle_reduction_pct,12.5,True
+Homberger,C2_2_5,200,0,distance_reduction_pct,8.708768112358435,True
+Homberger,C2_2_6,200,0,runtime_sec,109.91155089999666,True
+Homberger,C2_2_6,200,0,vehicle_reduction_pct,22.22222222222222,True
+Homberger,C2_2_6,200,0,distance_reduction_pct,12.28986608414855,True
+Homberger,C2_2_7,200,0,runtime_sec,104.5779210000037,True
+Homberger,C2_2_7,200,0,vehicle_reduction_pct,20.0,True
+Homberger,C2_2_7,200,0,distance_reduction_pct,4.649025204392624,True
+Homberger,C2_2_8,200,0,runtime_sec,143.1638665000064,True
+Homberger,C2_2_8,200,0,vehicle_reduction_pct,33.33333333333333,True
+Homberger,C2_2_8,200,0,distance_reduction_pct,9.448416751787539,True
+Homberger,C2_2_9,200,0,runtime_sec,60.3563809000043,False
+Homberger,R1_2_1,200,1,runtime_sec,131.50555139999778,False
+Homberger,R1_2_10,200,0,runtime_sec,102.48899079998955,True
+Homberger,R1_2_10,200,0,vehicle_reduction_pct,5.263157894736842,True
+Homberger,R1_2_10,200,0,distance_reduction_pct,-1.2845980664812608,True
+Homberger,R1_2_2,200,0,runtime_sec,99.43796819999989,False
+Homberger,R1_2_3,200,1,runtime_sec,207.9254096000077,False
+Homberger,R1_2_4,200,0,runtime_sec,108.34660180000355,False
+Homberger,R1_2_5,200,0,runtime_sec,148.22807569999713,False
+Homberger,R1_2_6,200,0,runtime_sec,142.11803179999697,False
+Homberger,R1_2_7,200,0,runtime_sec,141.5390599000093,False
+Homberger,R1_2_8,200,0,runtime_sec,91.7929354999942,False
+Homberger,R1_2_9,200,0,runtime_sec,98.73658230000001,False
+Homberger,R2_2_1,200,1,runtime_sec,223.28349620000517,True
+Homberger,R2_2_1,200,1,vehicle_reduction_pct,14.285714285714285,True
+Homberger,R2_2_1,200,1,distance_reduction_pct,4.014954486345899,True
+Homberger,R2_2_10,200,0,runtime_sec,160.74928309999814,True
+Homberger,R2_2_10,200,0,vehicle_reduction_pct,42.857142857142854,True
+Homberger,R2_2_10,200,0,distance_reduction_pct,2.694347841360165,True
+Homberger,R2_2_2,200,1,runtime_sec,225.05900680000195,False
+Homberger,R2_2_3,200,0,runtime_sec,141.76849639999273,False
+Homberger,R2_2_4,200,0,runtime_sec,139.32360810000682,True
+Homberger,R2_2_4,200,0,vehicle_reduction_pct,42.857142857142854,True
+Homberger,R2_2_4,200,0,distance_reduction_pct,0.5564616713038429,True
+Homberger,R2_2_5,200,0,runtime_sec,104.10439540000516,False
+Homberger,R2_2_6,200,0,runtime_sec,92.69993269999395,False
+Homberger,R2_2_7,200,0,runtime_sec,64.96427830000175,True
+Homberger,R2_2_7,200,0,vehicle_reduction_pct,42.857142857142854,True
+Homberger,R2_2_7,200,0,distance_reduction_pct,-1.1581275064652783,True
+Homberger,R2_2_8,200,0,runtime_sec,137.5640240000066,True
+Homberger,R2_2_8,200,0,vehicle_reduction_pct,16.666666666666664,True
+Homberger,R2_2_8,200,0,distance_reduction_pct,3.9218617630936383,True
+Homberger,R2_2_9,200,0,runtime_sec,66.25322679999226,False
+Homberger,RC1_2_1,200,0,runtime_sec,110.49605699999665,True
+Homberger,RC1_2_1,200,0,vehicle_reduction_pct,9.090909090909092,True
+Homberger,RC1_2_1,200,0,distance_reduction_pct,8.53458913596414,True
+Homberger,RC1_2_10,200,0,runtime_sec,148.6237270999991,False
+Homberger,RC1_2_2,200,0,runtime_sec,113.03413590000127,False
+Homberger,RC1_2_3,200,0,runtime_sec,134.51090470000054,False
+Homberger,RC1_2_4,200,1,runtime_sec,218.26029949999065,True
+Homberger,RC1_2_4,200,1,vehicle_reduction_pct,0.0,True
+Homberger,RC1_2_4,200,1,distance_reduction_pct,5.759314825064813,True
+Homberger,RC1_2_5,200,0,runtime_sec,69.64800149999792,False
+Homberger,RC1_2_6,200,0,runtime_sec,158.48065430000133,False
+Homberger,RC1_2_7,200,0,runtime_sec,122.27299320000748,False
+Homberger,RC1_2_8,200,0,runtime_sec,172.95471380000527,False
+Homberger,RC1_2_9,200,0,runtime_sec,80.61547679999785,False
+Homberger,RC2_2_1,200,2+,runtime_sec,163.33842909999657,False
+Homberger,RC2_2_10,200,0,runtime_sec,104.14541830000235,True
+Homberger,RC2_2_10,200,0,vehicle_reduction_pct,33.33333333333333,True
+Homberger,RC2_2_10,200,0,distance_reduction_pct,5.339491518107645,True
+Homberger,RC2_2_2,200,1,runtime_sec,202.59273420000682,False
+Homberger,RC2_2_3,200,1,runtime_sec,163.22181689999707,False
+Homberger,RC2_2_4,200,0,runtime_sec,134.74397280000267,False
+Homberger,RC2_2_5,200,0,runtime_sec,125.4597369999974,False
+Homberger,RC2_2_6,200,1,runtime_sec,228.24177490000147,False
+Homberger,RC2_2_7,200,1,runtime_sec,238.65906570000516,False
+Homberger,RC2_2_8,200,1,runtime_sec,235.113202499997,False
+Homberger,RC2_2_9,200,0,runtime_sec,135.4553050000104,False
+Homberger,C1_4_1,400,0,runtime_sec,127.95925670000724,False
+Homberger,C1_4_10,400,1,runtime_sec,223.11855479999213,False
+Homberger,C1_4_2,400,2+,runtime_sec,224.12502259999746,False
+Homberger,C1_4_3,400,0,runtime_sec,120.15359180000087,False
+Homberger,C1_4_4,400,0,runtime_sec,94.06984080000257,False
+Homberger,C1_4_5,400,1,runtime_sec,226.73435980000068,False
+Homberger,C1_4_6,400,0,runtime_sec,111.48841309999989,False
+Homberger,C1_4_7,400,0,runtime_sec,109.39736919999996,False
+Homberger,C1_4_8,400,0,runtime_sec,114.75237960000231,False
+Homberger,C1_4_9,400,1,runtime_sec,227.51689780000015,False
+Homberger,C2_4_1,400,0,runtime_sec,170.1523378999991,False
+Homberger,C2_4_10,400,0,runtime_sec,183.79197849999764,False
+Homberger,C2_4_2,400,1,runtime_sec,275.21412370000326,True
+Homberger,C2_4_2,400,1,vehicle_reduction_pct,31.57894736842105,True
+Homberger,C2_4_2,400,1,distance_reduction_pct,13.717566992769035,True
+Homberger,C2_4_3,400,1,runtime_sec,249.63433359999908,True
+Homberger,C2_4_3,400,1,vehicle_reduction_pct,18.75,True
+Homberger,C2_4_3,400,1,distance_reduction_pct,6.449035498230796,True
+Homberger,C2_4_4,400,1,runtime_sec,269.4916996999964,False
+Homberger,C2_4_5,400,1,runtime_sec,241.26990260000457,True
+Homberger,C2_4_5,400,1,vehicle_reduction_pct,17.647058823529413,True
+Homberger,C2_4_5,400,1,distance_reduction_pct,11.1178919378392,True
+Homberger,C2_4_6,400,0,runtime_sec,82.60072640000726,True
+Homberger,C2_4_6,400,0,vehicle_reduction_pct,12.5,True
+Homberger,C2_4_6,400,0,distance_reduction_pct,-0.6460308607547913,True
+Homberger,C2_4_7,400,1,runtime_sec,247.35775519999152,True
+Homberger,C2_4_7,400,1,vehicle_reduction_pct,13.333333333333334,True
+Homberger,C2_4_7,400,1,distance_reduction_pct,2.288040760934272,True
+Homberger,C2_4_8,400,1,runtime_sec,224.90540830000828,False
+Homberger,C2_4_9,400,0,runtime_sec,153.89705200000026,False
+Homberger,R1_4_1,400,1,runtime_sec,220.1558667999925,False
+Homberger,R1_4_10,400,1,runtime_sec,247.12654170001042,False
+Homberger,R1_4_2,400,0,runtime_sec,113.68438600000809,False
+Homberger,R1_4_3,400,0,runtime_sec,149.76021150000452,False
+Homberger,R1_4_4,400,1,runtime_sec,309.3031440999912,False
+Homberger,R1_4_5,400,1,runtime_sec,237.9598100000003,False
+Homberger,R1_4_6,400,1,runtime_sec,294.6435519999941,False
+Homberger,R1_4_7,400,0,runtime_sec,163.9235839999892,False
+Homberger,R1_4_8,400,0,runtime_sec,386.0757678999944,False
+Homberger,R1_4_9,400,0,runtime_sec,150.45690340000147,False
+Homberger,R2_4_1,400,1,runtime_sec,257.56340569999884,False
+Homberger,R2_4_10,400,1,runtime_sec,239.8149762999965,False
+Homberger,R2_4_2,400,1,runtime_sec,212.84567699999025,False
+Homberger,R2_4_3,400,0,runtime_sec,132.71082699998806,False
+Homberger,R2_4_4,400,1,runtime_sec,248.51641350000864,True
+Homberger,R2_4_4,400,1,vehicle_reduction_pct,28.57142857142857,True
+Homberger,R2_4_4,400,1,distance_reduction_pct,1.5720559865369692,True
+Homberger,R2_4_5,400,1,runtime_sec,296.53610379999736,False
+Homberger,R2_4_6,400,0,runtime_sec,139.63211600000795,False
+Homberger,R2_4_7,400,1,runtime_sec,233.12309240001196,True
+Homberger,R2_4_7,400,1,vehicle_reduction_pct,38.46153846153847,True
+Homberger,R2_4_7,400,1,distance_reduction_pct,-11.418520282897868,True
+Homberger,R2_4_8,400,0,runtime_sec,159.84051850000105,True
+Homberger,R2_4_8,400,0,vehicle_reduction_pct,27.27272727272727,True
+Homberger,R2_4_8,400,0,distance_reduction_pct,4.89818608577487,True
+Homberger,R2_4_9,400,0,runtime_sec,153.98853360000066,True
+Homberger,R2_4_9,400,0,vehicle_reduction_pct,52.94117647058824,True
+Homberger,R2_4_9,400,0,distance_reduction_pct,-10.607488518900812,True
+Homberger,RC1_4_1,400,1,runtime_sec,254.80238459999964,False
+Homberger,RC1_4_10,400,1,runtime_sec,214.71868049999466,False
+Homberger,RC1_4_2,400,1,runtime_sec,225.93417639999825,False
+Homberger,RC1_4_3,400,0,runtime_sec,120.18061229999876,False
+Homberger,RC1_4_4,400,0,runtime_sec,161.92134479999368,False
+Homberger,RC1_4_5,400,0,runtime_sec,119.63810419999936,False
+Homberger,RC1_4_6,400,0,runtime_sec,167.60506070000702,False
+Homberger,RC1_4_7,400,1,runtime_sec,250.84700370000792,False
+Homberger,RC1_4_8,400,0,runtime_sec,169.6162905000092,False
+Homberger,RC1_4_9,400,1,runtime_sec,253.27360559999943,False
+Homberger,RC2_4_1,400,1,runtime_sec,242.5447470999934,False
+Homberger,RC2_4_10,400,1,runtime_sec,242.44156819999625,False
+Homberger,RC2_4_2,400,0,runtime_sec,161.92621209999197,True
+Homberger,RC2_4_2,400,0,vehicle_reduction_pct,27.77777777777778,True
+Homberger,RC2_4_2,400,0,distance_reduction_pct,-7.419310249498921,True
+Homberger,RC2_4_3,400,0,runtime_sec,106.07102999999188,False
+Homberger,RC2_4_4,400,1,runtime_sec,226.29358089999005,False
+Homberger,RC2_4_5,400,0,runtime_sec,115.02727140000206,False
+Homberger,RC2_4_6,400,1,runtime_sec,244.5473081999953,False
+Homberger,RC2_4_7,400,2+,runtime_sec,254.19561810001323,False
+Homberger,RC2_4_8,400,0,runtime_sec,124.76442599999427,False
+Homberger,RC2_4_9,400,1,runtime_sec,232.98149520000152,False
+Homberger,C1_6_1,600,0,runtime_sec,107.80002959999547,False
+Homberger,C1_6_10,600,0,runtime_sec,144.17672060000768,False
+Homberger,C1_6_2,600,0,runtime_sec,127.93528420000803,False
+Homberger,C1_6_3,600,0,runtime_sec,143.79182270000456,False
+Homberger,C1_6_4,600,0,runtime_sec,84.75780349998968,False
+Homberger,C1_6_5,600,0,runtime_sec,273.28809839999303,False
+Homberger,C1_6_6,600,0,runtime_sec,459.37993780001125,False
+Homberger,C1_6_7,600,0,runtime_sec,144.6982616000023,False
+Homberger,C1_6_8,600,0,runtime_sec,121.20246010000119,False
+Homberger,C1_6_9,600,0,runtime_sec,132.0266188000096,False
+Homberger,C2_6_1,600,0,runtime_sec,106.75265379999473,False
+Homberger,C2_6_10,600,0,runtime_sec,146.1816281000065,False
+Homberger,C2_6_2,600,0,runtime_sec,178.49478329998965,True
+Homberger,C2_6_2,600,0,vehicle_reduction_pct,26.923076923076923,True
+Homberger,C2_6_2,600,0,distance_reduction_pct,5.4008684363668955,True
+Homberger,C2_6_3,600,0,runtime_sec,134.67568749999919,False
+Homberger,C2_6_4,600,0,runtime_sec,133.09033789999376,False
+Homberger,C2_6_5,600,1,runtime_sec,235.93247430000338,False
+Homberger,C2_6_6,600,0,runtime_sec,153.74464750000334,False
+Homberger,C2_6_7,600,0,runtime_sec,141.7777086999995,False
+Homberger,C2_6_8,600,0,runtime_sec,137.19697099999757,False
+Homberger,C2_6_9,600,0,runtime_sec,141.2004367000045,False
+Homberger,R1_6_1,600,0,runtime_sec,105.58137379999971,False
+Homberger,R1_6_10,600,0,runtime_sec,329.3067289000028,False
+Homberger,R1_6_2,600,0,runtime_sec,286.88821040000767,False
+Homberger,R1_6_3,600,0,runtime_sec,153.77858189999824,False
+Homberger,R1_6_4,600,0,runtime_sec,154.26709239999764,False
+Homberger,R1_6_5,600,0,runtime_sec,146.78814540000167,False
+Homberger,R1_6_6,600,0,runtime_sec,129.5043796999962,False
+Homberger,R1_6_7,600,0,runtime_sec,125.24832340001012,False
+Homberger,R1_6_8,600,0,runtime_sec,292.27716719999444,False
+Homberger,R1_6_9,600,0,runtime_sec,130.99282119999407,False
+Homberger,R2_6_1,600,0,runtime_sec,166.5180323000095,False
+Homberger,R2_6_10,600,0,runtime_sec,107.97166349999316,False
+Homberger,R2_6_2,600,0,runtime_sec,143.3558239999984,False
+Homberger,R2_6_3,600,2+,runtime_sec,213.68656689999625,False
+Homberger,R2_6_4,600,0,runtime_sec,131.53933159999724,False
+Homberger,R2_6_5,600,1,runtime_sec,144.0353255999944,False
+Homberger,R2_6_6,600,0,runtime_sec,150.62599539999792,False
+Homberger,R2_6_7,600,2+,runtime_sec,181.6705001000082,False
+Homberger,R2_6_8,600,0,runtime_sec,96.19270939999842,False
+Homberger,R2_6_9,600,0,runtime_sec,124.416378599999,False
+Homberger,RC1_6_1,600,0,runtime_sec,151.56408180001017,False
+Homberger,RC1_6_10,600,0,runtime_sec,142.25341049999406,True
+Homberger,RC1_6_10,600,0,vehicle_reduction_pct,0.0,True
+Homberger,RC1_6_10,600,0,distance_reduction_pct,3.2277493361075367,True
+Homberger,RC1_6_2,600,0,runtime_sec,142.36845660000108,False
+Homberger,RC1_6_3,600,0,runtime_sec,141.52879149999353,False
+Homberger,RC1_6_4,600,1,runtime_sec,158.31696090000332,False
+Homberger,RC1_6_5,600,0,runtime_sec,123.13952300000528,False
+Homberger,RC1_6_6,600,1,runtime_sec,250.06118279999646,False
+Homberger,RC1_6_7,600,0,runtime_sec,124.48275959999592,False
+Homberger,RC1_6_8,600,0,runtime_sec,139.84860870000557,False
+Homberger,RC1_6_9,600,0,runtime_sec,138.21147969999583,False
+Homberger,RC2_6_1,600,0,runtime_sec,145.78037179999228,True
+Homberger,RC2_6_1,600,0,vehicle_reduction_pct,33.33333333333333,True
+Homberger,RC2_6_1,600,0,distance_reduction_pct,-3.650692160140509,True
+Homberger,RC2_6_10,600,0,runtime_sec,140.84530229998927,False
+Homberger,RC2_6_2,600,0,runtime_sec,145.20186560000002,False
+Homberger,RC2_6_3,600,0,runtime_sec,122.35957040000358,False
+Homberger,RC2_6_4,600,0,runtime_sec,144.14669520000461,False
+Homberger,RC2_6_5,600,1,runtime_sec,240.05004990000452,False
+Homberger,RC2_6_6,600,1,runtime_sec,213.47598400000425,False
+Homberger,RC2_6_7,600,0,runtime_sec,111.90282920000027,False
+Homberger,RC2_6_8,600,1,runtime_sec,218.5064704999968,False
+Homberger,RC2_6_9,600,0,runtime_sec,135.65621389998705,False
+Homberger,C1_8_1,800,0,runtime_sec,104.26528510000207,True
+Homberger,C1_8_1,800,0,vehicle_reduction_pct,3.9473684210526314,True
+Homberger,C1_8_1,800,0,distance_reduction_pct,0.6069954725750206,True
+Homberger,C1_8_10,800,0,runtime_sec,112.04028430000471,True
+Homberger,C1_8_10,800,0,vehicle_reduction_pct,0.0,True
+Homberger,C1_8_10,800,0,distance_reduction_pct,1.5541307158500197,True
+Homberger,C1_8_2,800,0,runtime_sec,156.778750700003,True
+Homberger,C1_8_2,800,0,vehicle_reduction_pct,2.666666666666667,True
+Homberger,C1_8_2,800,0,distance_reduction_pct,6.163904765820961,True
+Homberger,C1_8_3,800,0,runtime_sec,158.91395669999474,True
+Homberger,C1_8_3,800,0,vehicle_reduction_pct,2.7027027027027026,True
+Homberger,C1_8_3,800,0,distance_reduction_pct,9.14530972720895,True
+Homberger,C1_8_4,800,0,runtime_sec,156.84238000000187,True
+Homberger,C1_8_4,800,0,vehicle_reduction_pct,1.36986301369863,True
+Homberger,C1_8_4,800,0,distance_reduction_pct,0.8840136119085188,True
+Homberger,C1_8_5,800,0,runtime_sec,104.68072770000435,True
+Homberger,C1_8_5,800,0,vehicle_reduction_pct,2.7027027027027026,True
+Homberger,C1_8_5,800,0,distance_reduction_pct,6.299165752211216,True
+Homberger,C1_8_6,800,0,runtime_sec,155.16305630000716,True
+Homberger,C1_8_6,800,0,vehicle_reduction_pct,1.36986301369863,True
+Homberger,C1_8_6,800,0,distance_reduction_pct,6.092793088363952,True
+Homberger,C1_8_7,800,0,runtime_sec,157.89453659999708,True
+Homberger,C1_8_7,800,0,vehicle_reduction_pct,1.36986301369863,True
+Homberger,C1_8_7,800,0,distance_reduction_pct,3.2171884793621084,True
+Homberger,C1_8_8,800,0,runtime_sec,156.08782990000327,False
+Homberger,C1_8_9,800,0,runtime_sec,155.53063559999282,False
+Homberger,C2_8_1,800,0,runtime_sec,106.16895089999889,False
+Homberger,C2_8_10,800,0,runtime_sec,141.70196450001094,True
+Homberger,C2_8_10,800,0,vehicle_reduction_pct,4.3478260869565215,True
+Homberger,C2_8_10,800,0,distance_reduction_pct,6.825489085250562,True
+Homberger,C2_8_2,800,2+,runtime_sec,316.6502274999948,False
+Homberger,C2_8_3,800,0,runtime_sec,146.7550626000011,True
+Homberger,C2_8_3,800,0,vehicle_reduction_pct,15.384615384615385,True
+Homberger,C2_8_3,800,0,distance_reduction_pct,-14.01796477038535,True
+Homberger,C2_8_4,800,0,runtime_sec,159.22072209999897,True
+Homberger,C2_8_4,800,0,vehicle_reduction_pct,8.333333333333332,True
+Homberger,C2_8_4,800,0,distance_reduction_pct,-11.85711814279947,True
+Homberger,C2_8_5,800,0,runtime_sec,140.85572819999652,True
+Homberger,C2_8_5,800,0,vehicle_reduction_pct,15.384615384615385,True
+Homberger,C2_8_5,800,0,distance_reduction_pct,-8.742081710931595,True
+Homberger,C2_8_6,800,0,runtime_sec,152.24345309998898,False
+Homberger,C2_8_7,800,0,runtime_sec,115.78906080000161,True
+Homberger,C2_8_7,800,0,vehicle_reduction_pct,8.0,True
+Homberger,C2_8_7,800,0,distance_reduction_pct,-5.974670012323494,True
+Homberger,C2_8_8,800,0,runtime_sec,150.90391530000488,False
+Homberger,C2_8_9,800,0,runtime_sec,156.09298289999424,False
+Homberger,R1_8_1,800,0,runtime_sec,165.40052429999923,False
+Homberger,R1_8_10,800,0,runtime_sec,112.53417299999273,True
+Homberger,R1_8_10,800,0,vehicle_reduction_pct,4.0,True
+Homberger,R1_8_10,800,0,distance_reduction_pct,-0.8443829109594623,True
+Homberger,R1_8_2,800,0,runtime_sec,139.1769939000078,False
+Homberger,R1_8_3,800,0,runtime_sec,159.90571400000772,False
+Homberger,R1_8_4,800,0,runtime_sec,150.50856669999484,True
+Homberger,R1_8_4,800,0,vehicle_reduction_pct,1.36986301369863,True
+Homberger,R1_8_4,800,0,distance_reduction_pct,1.1935770100466532,True
+Homberger,R1_8_5,800,0,runtime_sec,116.30403320000914,False
+Homberger,R1_8_6,800,1,runtime_sec,172.3046805000049,False
+Homberger,R1_8_7,800,0,runtime_sec,140.87661829999706,False
+Homberger,R1_8_8,800,0,runtime_sec,128.02550030000566,True
+Homberger,R1_8_8,800,0,vehicle_reduction_pct,1.36986301369863,True
+Homberger,R1_8_8,800,0,distance_reduction_pct,2.865448766860679,True
+Homberger,R1_8_9,800,0,runtime_sec,167.85212670000328,False
+Homberger,R2_8_1,800,0,runtime_sec,105.53980949999823,False
+Homberger,R2_8_10,800,1,runtime_sec,173.45568340001046,False
+Homberger,R2_8_2,800,0,runtime_sec,113.38491230001091,True
+Homberger,R2_8_2,800,0,vehicle_reduction_pct,44.44444444444444,True
+Homberger,R2_8_2,800,0,distance_reduction_pct,-11.519287420035218,True
+Homberger,R2_8_3,800,0,runtime_sec,151.39031149999937,True
+Homberger,R2_8_3,800,0,vehicle_reduction_pct,34.78260869565217,True
+Homberger,R2_8_3,800,0,distance_reduction_pct,-8.590157001638737,True
+Homberger,R2_8_4,800,0,runtime_sec,159.8149190999975,False
+Homberger,R2_8_5,800,0,runtime_sec,155.52781649999088,False
+Homberger,R2_8_6,800,0,runtime_sec,154.17168309999397,False
+Homberger,R2_8_7,800,0,runtime_sec,151.6648176000017,True
+Homberger,R2_8_7,800,0,vehicle_reduction_pct,31.818181818181817,True
+Homberger,R2_8_7,800,0,distance_reduction_pct,-10.744201484015063,True
+Homberger,R2_8_8,800,0,runtime_sec,147.94156200000725,False
+Homberger,R2_8_9,800,0,runtime_sec,157.00666899999487,False
+Homberger,RC1_8_1,800,1,runtime_sec,239.09234089999518,False
+Homberger,RC1_8_10,800,0,runtime_sec,156.042512,False
+Homberger,RC1_8_2,800,0,runtime_sec,135.50094209999952,True
+Homberger,RC1_8_2,800,0,vehicle_reduction_pct,2.631578947368421,True
+Homberger,RC1_8_2,800,0,distance_reduction_pct,1.0587660950753646,True
+Homberger,RC1_8_3,800,2+,runtime_sec,197.15279560000636,True
+Homberger,RC1_8_3,800,2+,vehicle_reduction_pct,1.3513513513513513,True
+Homberger,RC1_8_3,800,2+,distance_reduction_pct,-0.5935203880191745,True
+Homberger,RC1_8_4,800,0,runtime_sec,164.2183956999943,False
+Homberger,RC1_8_5,800,0,runtime_sec,170.18718239999725,False
+Homberger,RC1_8_6,800,0,runtime_sec,141.59926119999727,False
+Homberger,RC1_8_7,800,0,runtime_sec,90.43242679999094,False
+Homberger,RC1_8_8,800,1,runtime_sec,107.63214449999214,False
+Homberger,RC1_8_9,800,1,runtime_sec,240.15076569998928,False
+Homberger,RC2_8_1,800,1,runtime_sec,170.8242695999943,False
+Homberger,RC2_8_10,800,0,runtime_sec,162.27144979999866,False
+Homberger,RC2_8_2,800,0,runtime_sec,177.221160400004,False
+Homberger,RC2_8_3,800,0,runtime_sec,151.7900326999952,False
+Homberger,RC2_8_4,800,1,runtime_sec,167.9383574000094,False
+Homberger,RC2_8_5,800,0,runtime_sec,147.58560200000647,False
+Homberger,RC2_8_6,800,0,runtime_sec,140.23741159999918,False
+Homberger,RC2_8_7,800,0,runtime_sec,138.67803290000302,False
+Homberger,RC2_8_8,800,0,runtime_sec,189.36610250000376,True
+Homberger,RC2_8_8,800,0,vehicle_reduction_pct,21.052631578947366,True
+Homberger,RC2_8_8,800,0,distance_reduction_pct,-1.8950991127896883,True
+Homberger,RC2_8_9,800,0,runtime_sec,140.82037039998977,False

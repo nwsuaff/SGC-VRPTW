@@ -1,0 +1,5 @@
+scale,rows,ort_feasible,droc_feasible,dual_feasible,lex_wins,vehicle_wins,distance_wins
+200,60,50,22,17,17,16,15
+400,60,46,14,10,10,10,6
+600,60,48,7,3,3,2,2
+800,60,59,22,22,22,21,12

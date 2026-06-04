@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sgc-vrptw"
+version = "0.1.0"
+description = "Solver-grounded generative control workflow for vehicle routing with time windows."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "ortools>=9.8.0",
+    "pyvrp>=0.9.0",
+    "numpy>=1.24.0",
+    "pandas>=2.0.0",
+    "vrplib>=0.2.0",
+    "pydantic>=2.0.0",
+    "pyyaml>=6.0",
+    "typer>=0.9.0",
+    "matplotlib>=3.7.0",
+    "seaborn>=0.12.0",
+    "requests>=2.31.0",
+    "scipy>=1.10.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+llm = ["openai>=1.0.0", "anthropic>=0.18.0"]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["src*"]

@@ -1,0 +1,16 @@
+# Greedy insertion baseline configuration
+
+# Customer ordering rule:
+# - earliest_due_date: sort by due time ascending
+# - farthest_first: sort by distance from depot descending
+# - nearest_neighbor: sort by distance from depot ascending
+ordering_rule: earliest_due_date
+
+# Tie-breaking rule when two customers have the same primary key
+tie_break_rule: farthest_first
+
+# Allow route to start before depot opens (if depot has time window)
+allow_early_depot_start: false
+
+# Maximum number of vehicles to use (null = unlimited)
+max_vehicles: null
