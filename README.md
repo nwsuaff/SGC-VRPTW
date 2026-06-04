@@ -78,6 +78,10 @@ For detailed commands and expected paths, see `docs/USAGE.md`.
 
 This public repository is intended for review and reproducibility. It exposes the auditable research artifacts: source code, solver settings, feasibility-checking logic, processed result records, figure-source tables, plotting scripts, and manuscript materials. API credentials, local paths, private endpoints, and large raw benchmark archives are intentionally excluded.
 
+## License
+
+This repository is released under the MIT License. See `LICENSE` for details.
+
 ## Citation
 
 If you use this repository, please cite the associated manuscript once the final bibliographic record is available.

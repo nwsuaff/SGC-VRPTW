@@ -7,7 +7,13 @@ name = "sgc-vrptw"
 version = "0.1.0"
 description = "Solver-grounded generative control workflow for vehicle routing with time windows."
 readme = "README.md"
+license = {text = "MIT"}
 requires-python = ">=3.10"
+classifiers = [
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Topic :: Scientific/Engineering",
+]
 dependencies = [
     "ortools>=9.8.0",
     "pyvrp>=0.9.0",
