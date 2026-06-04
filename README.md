@@ -4,6 +4,8 @@ Solver-grounded generative control for vehicle routing with time windows.
 
 This repository contains the code, processed evidence tables, figure sources, and manuscript materials for a study of **SGC-VRPTW**, a workflow that uses an advanced LLM to instantiate solver behavior, execute generated programs, check feasibility independently, and repair failed attempts through feedback. OR-Tools cold-start routing is used as the deterministic baseline in the reported experiments.
 
+![SGC-VRPTW method framework](docs/assets/figure_1_method_framework.png)
+
 ## What Is Included
 
 - `src/`: VRPTW schemas, loaders, baseline solvers, feasibility checking, LLM clients, and SGC execution pipelines.
